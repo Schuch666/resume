@@ -1,6 +1,16 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+title: 'Resume - Daniel Schuch'
+url: 'https://schuch.github.io'
+
+#change it according to your repository name
+# disabling since we are using a custom domain
+#baseurl: '/online-cv' 
+
+description: Testing a resume on github
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: ceramic # blue turquoise green berry orange ceramic
 
 sidebar:
     position: right # position of the sidebar : left or right
