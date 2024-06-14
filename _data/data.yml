@@ -126,7 +126,7 @@ experiences:
     info:
       - role: Postdoctoral Research Associate
         time: 2020 - Present
-        company: Northeastern University, Boston-MA
+        company: Northeastern University, Boston-MA, U.S.
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -142,9 +142,20 @@ experiences:
             - Dissemination of scientific findings
             - Mentoring PhD students / candidates
             - Support other projects
-      - role: Senior Software Engineer
+      - role: Postdoctoral Research
         time: 2014 - 2015
-        company: Google, London
+        company: University of São Paulo, São Paulo-SP, Brazil
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point   
+      - role: Consultor
+        time: 2016 - 2016
+        company: ENEVA LTD., Rio de Janeiro-RJ, Brazil
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -153,9 +164,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Bolsista DTI-2
+        time: 2011 - 2013
+        company: INPE, São José dos Campos-SP, Brazil
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
