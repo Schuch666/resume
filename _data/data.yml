@@ -45,24 +45,18 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - item: Music
+          link: https://www.metal-archives.com/artists/Dx_Schuch/743025
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Meteorologist with PhD in science, acting in the micrometeorology area 
+      with an emphasis on numerical weather models, air quality, transport 
+      phenomena and atmospheric boundary layer in the following subjects: 
+      meteorological and air quality models, turbulence, analytical solutions, 
+      wind tunnel essays and atmospheric chemistry.
+      
 education:
     title: Education
     info:
@@ -254,23 +248,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R
+        level: 90%
+        
+      - name: Air Quality modeling
+        level: 57%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Weather forecast models
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: Python / C# / C++ / Fortran
+        level: 45%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Bash
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
