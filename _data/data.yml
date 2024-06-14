@@ -253,16 +253,16 @@ skills:
         level: 90%
         
       - name: Air Quality modeling
-        level: 57%
-
-      - name: Weather forecast models
-        level: 75%
-
-      - name: Python / C# / C++ / Fortran
-        level: 45%
+        level: 82%
 
       - name: Bash
         level: 80%
+
+      - name: Weather forecast models
+        level: 70%
+
+      - name: Python / C# / C++ / Fortran
+        level: 45%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
