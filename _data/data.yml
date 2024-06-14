@@ -146,14 +146,13 @@ experiences:
         time: 2017 - 2019
         company: University of São Paulo, São Paulo-SP, Brazil
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point   
-      - role: Consultor
+          Development of research aimed at obtaining a complete diagnosis of 
+          the impact of vehicle fuels on air quality in urban regions in the 
+          southeast of the country and its neighborhoods, through 
+          atmospheric modeling and scenario studies.
+            - WRF-Chem model
+            - VEIN model   
+      - role: Specialist external consultant
         time: 2016 - 2016
         company: ENEVA LTD., Rio de Janeiro-RJ, Brazil
         details: |
@@ -164,7 +163,7 @@ experiences:
           The analyzes were delivered in the form of media 
           (images and animation) and a technical report together 
           with the technical opinion.
-            - WRF-Chem
+            - WRF-Chem model
             - Impact of emissions
       - role: Bolsista DTI-2
         time: 2011 - 2013
