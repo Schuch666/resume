@@ -164,21 +164,21 @@ experiences:
           The analyzes were delivered in the form of media 
           (images and animation) and a technical report together 
           with the technical opinion.
-          
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - WRF-Chem
+            - Impact of emissions
       - role: Bolsista DTI-2
         time: 2011 - 2013
         company: INPE, São José dos Campos-SP, Brazil
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Determination of turbulent flow behavior in clearing regions 
+          and the mechanisms of atmospheric interaction between clearings 
+          and the Amazon forest, phenomena such as recirculation, 
+          boundary layer structure and formation of 
+          organized structures for this type of flow regime.
+            - Large Edge Simulation (LES) model
+            - Turbulence
+            - Wind tunnel essay
+            - Amazon clearings
 
 projects:
     title: Projects
