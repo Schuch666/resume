@@ -17,7 +17,6 @@ sidebar:
     phone: 
     timezone: America/Boston (EST)
     citizenship: Brazil
-    website: coe.northeastern.edu/Research/CASCADE/Daniel_schuch.html #do not add http://
     linkedin: daniel-schuch
     xing: 
     github: schuch666
@@ -29,6 +28,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
+    website: coe.northeastern.edu/Research/CASCADE/Daniel_schuch.html #do not add http://
 
     languages:
       title: Languages
@@ -66,28 +66,39 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Science, Sciences and Spatial Technology
+        university: Technological Institue of Aeronautics (ITA)
+        time: 2013 - 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            - Air Quality Modeling
+            - Rocket Laucher Effluents
+      - degree: MSc in Meteorology, Micropeteorology
+        university: University of Pelotas
+        time: 2009 - 2011
+        details: |
+          Simulation of the pollutant dispertion with chemical reaction in the
+          atmospheric planetary boundary layer with transform techniques. 
+          The main goal of this project was study the dispersion of polutants 
+          including chemical reactions with an analitical model. The equation 
+          of the advecion-diffusion-reaction was solved by the 
+          GILTT (Generalized Integral Transform Technique) method, 
+          and the analytical solution was evaluated.
+            - Air Quality Modeling
+            - Analitical Solutions
+      - degree: BSc in Meteorology
+        university: University of Pelotas
+        time: 2005 - 2009
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experiences
