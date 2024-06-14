@@ -124,9 +124,9 @@ publications:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Postdoctoral Research Associate
+        time: 2020 - Present
+        company: Northeastern University, Boston-MA
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -137,8 +137,11 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Application, evaluation and development of Air quality models
+            - Co-Lead WT project            
+            - Dissemination of scientific findings
+            - Mentoring PhD students / candidates
+            - Support other projects
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
