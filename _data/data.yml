@@ -69,11 +69,12 @@ education:
         university: Technological Institue of Aeronautics (ITA)
         time: 2013 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Development of an algorithm to simulate the dispersion of gases 
+          released by space vehicles at the Alcântara Launch Center. 
+          Project with the purpose of developing a model to analyze, 
+          before launching a rocket, the concentration of gases and 
+          particulate matter, toxic or not, released due to the 
+          thrust produced by the burning of fuel, solid or liquid.
             - Air Quality Modeling
             - Rocket Laucher Effluents
       - degree: MSc in Meteorology, Micropeteorology
