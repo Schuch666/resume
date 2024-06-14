@@ -128,17 +128,15 @@ experiences:
         time: 2020 - Present
         company: Northeastern University, Boston-MA, U.S.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Developent and application of WRF-Chem to simulations of the 
+          air pollution, ozone and particulate matter at 
+          the street level for 2 major Brazilian metropolitan areas 
+          for the present day and future (2050). 
+          Development of tools to suport the modeling acivities, including 
+          changes in the model, model inputs, emission processing, and
+          tools to post-process and evaluate the model.
             - Application, evaluation and development of Air quality models
-            - Co-Lead WT project            
+            - Co-Lead WT project
             - Dissemination of scientific findings
             - Mentoring PhD students / candidates
             - Support other projects
