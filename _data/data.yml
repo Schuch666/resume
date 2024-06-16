@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Daniel Schuch
-    tagline: Air Quality Modeling
+    tagline: Postdoctoral Research Associate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -61,6 +61,28 @@ career-profile:
       turbulence, transport phenomena, wind tunnel essays, atmospheric chemistry 
       and analytical solutions. My work is focused on advancing our understanding 
       of the atmosphere through innovative scientific research.
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
            
 education:
     title: Education
@@ -94,30 +116,7 @@ education:
         university: University of Pelotas
         time: 2005 - 2009
         details: |
-
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-        
+      
 experiences:
     title: Experiences
     info:
@@ -125,15 +124,11 @@ experiences:
         time: 2020 - Present
         company: Northeastern University, Boston-MA, U.S.
         details: |
-          Research focused in developent and application of WRF-Chem to 
-          simulations of the air pollution (ozone and particulate matter) 
-          at the street level for two major Brazilian metropolitan areas 
-          for the present day and future (2050).
-          Development of tools to suport the simulation acivities, including 
-          changes in the model, model inputs, emission processing and projection, 
-          and tools to post-process and evaluate the model.
-            - Application, evaluation and development of Air quality models
-            - Co-Lead WT project
+          Application, evaluation and development of Air Quality models 
+          in multiple projects and regions including: 
+	        - Brazil: Co-Lead WT project, and perform multiyear application and evaluation of WRF-Chem model, including model development, development of emission and emission projection for different scenarios for 2050.
+	        - US: Development of  GHG emissions (for WRF-GHG and WRF-Chem-GHG) and model evaluation.
+	        - Dubai: Application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios.
             - Dissemination of scientific findings
             - Mentoring PhD students / candidates
             - Support other projects
@@ -181,10 +176,10 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Wellcome Thrust-UK
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+        tagline: "Developent and application of WRF-Chem to simulations of the air pollution (ozone and particulate matter) at the street level for two major Brazilian metropolitan areas for the present day and future (2050)."
+      
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
