@@ -141,6 +141,31 @@ publications:
         authors: Daniel Schuch, Gilberto Fish
         conference: J. Aerosp. Technol. Manag., 2017
         
+      - title: Padrões de vento a nível de superfície para região da costa norte do Brasil (Surface-level wind patterns for the northern Brazilian coast region)
+        link: "https://www.redalyc.org/articulo.oa?id=467547689063"
+        authors: Luiz Eduardo Medeiros, Gilberto Fisch, Paulo Iriart, Felipe Denardin Costa, Dionnathan Willian Oliveira, Daniel Schuch
+        conference: Ciência e Natura, 2016.
+
+      - title: Estudo do escoamento turbulento atmosférico utilizando ensaios em túnel de vento e simulação numérica (Study of atmospheric turbulent flow using wind tunnel and numerical simulation)
+        link: "https://doi.org/10.1590/0102-778620130580"
+        authors: Daniel Schuch, Edson R. Marciotto, Otávio Acevedo, Gilberto Fisch, Ana Cristina Avelar
+        conference: Revista Brasileira de Meteorologia, 2014
+
+      - title: Análize da influência da estratificação sobre perfis de vento e temperatura em experimentos de túnel de vento (Analysis of the influence of stratification on wind profiles and temperature in wind tunnel experiments)
+        link: "https://periodicos.ufsm.br/cienciaenatura/article/view/11592/pdf"
+        authors: Giuliano Demarco, Franciano S. Puhales, Felipe D. Costa, Daniel Schuch, Amanda F. Faria, Ana C. Avelar, Gilberto Fisch, Otávio C. Acevedo
+        conference: Ciência e Natura, 2013
+
+      - title: Perfils de vento e turulência atmosférica simulados em túnel de vento (Wind profiles and atmospheric turbulence simulated in wind tunnel)
+        link: "https://doi.org/10.5902/2179460X11588"
+        authors: Daniel Schuch, Edson Marcioto, Gilberto Fish, Ana Cristina Avelar
+        conference: Ciência e Natura, 2013
+
+      - title: Simulação da dispersão de poluentes na camada limite atmosférica incluindo o efeito da deposição seca no solo (Simulation of dispersion of pollutants in the atmospheric boundary layer including the effect of dry deposition on soil)
+        link: "https://www.redalyc.org/pdf/4675/467546167029.pdf"
+        authors: Daniel Schuch, Guilherme Weymar,Igor Furtado, Regis Quadros, Daniela Buske
+        conference: Ciência e Natura, 2011
+        
 education:
     title: Education
     info:
