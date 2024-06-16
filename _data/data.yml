@@ -81,6 +81,16 @@ publications:
         link: "http://doi.org/10.1016/j.atmosenv.2023.120301"
         authors: Mario Gavidia-Calderón, Daniel Schuch, Angel Vara-Vela, Rita Inoue, Edmilson D. Freitas, Taciana Toledo de A. Albuquerque, Yang Zhang, Maria de Fatima Andrade, Michelle L. Bell
         conference: Atmo. Env., 2024
+
+      - title: A synergistic ozone-climate control to address emerging ozone pollution challenges
+        link: "http://doi.org/10.1016/j.oneear.2023.07.004"
+        authors: Xiaopu Lyu, Ke Li, Hai Guo,Lidia Morawska,Beining Zhou, Yangzong Zeren, Fei Jiang, Changhong Chen, Allen H. Goldstein, Xiaobin Xu, Tao Wang, Xiao Lu, Tong Zhu, Xavier Querol, Satoru Chatani, Mohd Talib Latif, Daniel Schuch, Vinayak Sinha, Prashant Kumar, Benjamin Mullins, Rodrigo Seguel, Min Shao, Likun Xue, Nan Wang, Jianmin Chen, Jian Gao, Fahe Chai, Isobel Simpson, Baerbel Sinha, Donald R. Blake
+        conference: One Earth, 2023.
+
+      - title: Towards Unified Online-Coupled Aerosol Parameterization for the Brazilian Global Atmospheric Model (BAM), Aerosol-Cloud Microphysical-Radiation Interactions
+        link: "http://doi.org/doi:10.3390/rs15010278"
+        authors: Jayant Pendharkar, Silvio Nilo Figueroa, Angel Vara-Vela, R. Phani Murali Krishna, Daniel Schuch, Paulo Yoshio Kubota, Débora Souza Alvim, Eder Paulo Vendrasco, Helber Barros Gomes, Paulo Nobre, Dirceu Luís Herdies
+        conference: Remote Sensing, 2023.
         
 education:
     title: Education
