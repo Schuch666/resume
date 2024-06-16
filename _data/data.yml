@@ -115,6 +115,31 @@ publications:
         link: "https://doi.org/10.21105/joss.00607"
         authors: Sergio Ibarra-Espinosa, Daniel Schuch1, Edmilson Dias de Freitas
         conference: Journal of Open Source Software, 2018
+
+      - title: EmissV, An R package to create vehicular and other emissions for air quality models
+        link: "https://doi.org/10.21105/joss.00662"
+        authors: Sergio Ibarra-Espinosa, Daniel Schuch1, Edmilson Dias de Freitas
+        conference: Journal of Open Source Software, 2018.
+
+      - title: Proper Orthogonal Decomposition and Spectral Analysis of a Wall-Mounted Square Cylinder Wake
+        link: "https://doi.org/10.5028/jatm.v10.867"
+        authors: Henrique Fanini Leite, Ana Cristina Avelar, Leandra de Abreu, Daniel Schuch, André Cavalieri
+        conference: J. Aerosp. Technol. Manag., 2018
+
+      - title: Rocket emissions representation in atmospheric air quality models, The short-range atmospheric transport and reaction of gases released by solid propellant engines
+        link: "https://doi.org/10.1002/met.1750"
+        authors: Daniel Schuch, Gilberto Fish
+        conference: Meteorological Aplications, 2018
+
+      - title: The Long-Range Memory and the Fractal Dimension, A Case Study for Alcântara
+        link: "https://doi.org/10.5028/jatm.v9i4.683"      
+        authors: Cleber Souza Corrêa, Daniel Schuch, Antonio Paulo de Queiroz, Gilberto Fisch, Felipe do Nascimento Corrêa, Mariane Mendes Coutinho 
+        conference: J. Aerosp. Technol. Manag., 2017
+
+      - title: The Use of an Atmospheric Model to Simulate the Rocket Exhaust Effluents Transport and Dispersion for the Centro de Lançamento de Alcântara
+        link: "https://doi.org/10.5028/jatm.v9i2.740 "
+        authors: Daniel Schuch, Gilberto Fish
+        conference: J. Aerosp. Technol. Manag., 2017
         
 education:
     title: Education
