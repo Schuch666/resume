@@ -91,6 +91,30 @@ publications:
         link: "http://doi.org/doi:10.3390/rs15010278"
         authors: Jayant Pendharkar, Silvio Nilo Figueroa, Angel Vara-Vela, R. Phani Murali Krishna, Daniel Schuch, Paulo Yoshio Kubota, Débora Souza Alvim, Eder Paulo Vendrasco, Helber Barros Gomes, Paulo Nobre, Dirceu Luís Herdies
         conference: Remote Sensing, 2023.
+      - title: Low-Level Atmospheric Flow at the Central North Coast of Brazil
+        link: "http://doi.org/10.1007/s10546-021-00625-1"
+        authors: Luiz E. Medeiros, Gilberto Fisch, Otávio C. Acevedo, Felipe D. Costa, Paulo G. Iriart, Vagner Anabor, Daniel Schuch 
+        conference: Boundary-Layer Meteorology, 2021
+
+      - title: Short-Term Responses of Air Quality to Changes in Emissions under the Representative Concentration Pathway 4.5 Scenario over Brazil
+        link: "https://doi.org/10.3390/atmos11080799"
+        authors: Daniel Schuch, Maria de Fatima Andrade, Yang Zhang, Edmilson Dias de Freitas, Michelle L. Bell
+        conference: Atmosphere, 2020
+
+      - title: A two decades study on ozone variability and trend over the main urban areas of the São Paulo state, Brazil
+        link: "https://doi.org/10.1007/s11356-019-06200-z"
+        authors: Daniel Schuch; Sergio Ibarra Espinosa; Leila Droprinchinski Martins; Vanessa Silveira Barreto Carvalho; Bruna Ferreira Ramin; Jayne Souza Silva; Jorge Alberto Martins; Edmilson Dias de Freitas and Maria de Fatima Andrade
+        conference: Environmental Science and Pollution Research, 2019
+
+      - title: EmissV, A preprocessor for WRF-Chem model
+        link: "https://doi.org/10.30564/jasr.v1i1.347 "
+        authors: Sergio Ibarra-Espinosa, Daniel Schuch1, Edmilson Dias de Freitas, Maria de Farima Andrade
+        conference: Journal of Atmospheric Science Research, 2019
+
+      - title: eixport,An R package to export emissions to atmospheric models
+        link: "https://doi.org/10.21105/joss.00607"
+        authors: Sergio Ibarra-Espinosa, Daniel Schuch1, Edmilson Dias de Freitas
+        conference: Journal of Open Source Software, 2018
         
 education:
     title: Education
