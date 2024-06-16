@@ -67,20 +67,20 @@ publications:
     intro: |
       List of publications on peer review scienific journals.
     papers:
-      - title: The Art of Computer Programming
+      - title: The impact of exposure assessment on associations between air pollution and cardiovascular mortality risks in the city of Rio de Janeiro, Brazil
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Seulkee Heo, Daniel Schuch, Washington Leite Junger, Yang Zhang, Maria de Fatima Andrade, Michelle L. Bell
+        conference: Submitted to Environmental Research, 2024
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Air quality modeling intercomparison and multi-scale ensemble chain for Latin America
+        link: "https://doi.org/10.5194/egusphere-2024-815"
+        authors: Pachon, J. E., Opazo, M., Lichtig, P., Hunneus, N., Bouarar, I., Brasseur, G., Li, C. W. Y., Flemming, J., Menut, L., Menares, C., Gallardo, L., Gauss, M., Sofiev, M., Kouznetsov, R., Palamarchuk, J., Dawidowski, L., Rojas, N. Y., Andrade, M. D. F., Gavidia-Calderón, M. E., Delgado Peralta, A. H.,  Schuch, D.
+        conference: EGUsphere, , 2024.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Air quality modeling in the metropolitan area of São Paulo, Brazil: A review
+        link: "http://doi.org/10.1016/j.atmosenv.2023.120301"
+        authors: Mario Gavidia-Calderón, Daniel Schuch, Angel Vara-Vela, Rita Inoue, Edmilson D. Freitas, Taciana Toledo de A. Albuquerque, Yang Zhang, Maria de Fatima Andrade, Michelle L. Bell
+        conference: Atmo. Env., v.319, p.120301, 2024.
            
 education:
     title: Education
