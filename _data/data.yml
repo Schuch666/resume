@@ -126,9 +126,15 @@ experiences:
         details: |
           Application, evaluation and development of Air Quality models 
 	  in multiple projects and regions including: 
-            - Brazil: Co-Lead WT project, and perform multiyear application and evaluation of WRF-Chem model, including model development, development of emission and emission projection for different scenarios for 2050.
-	    - US: Development of  GHG emissions (for WRF-GHG and WRF-Chem-GHG) and model evaluation.
-            - Dubai: Application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios.
+            - Brazil: Co-Lead WT project, and perform multiyear application 
+	    and evaluation of WRF-Chem model, including model development, 
+            development of emission and emission projection for different 
+	    scenarios for 2050.
+	    - US: Development of  GHG emissions (for WRF-GHG and WRF-Chem-GHG) 
+            and model evaluation.
+            - Dubai: Application of CAMx model and use of probing tools 
+	    for source apportionment, process analysis and 
+            simulation of emission scenarios.
 	    - Dissemination of scientific findings
             - Mentoring PhD students / candidates
 	    - Support other projects
