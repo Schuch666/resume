@@ -65,9 +65,7 @@ career-profile:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      List of publications on peer review scienific journals.
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -133,7 +131,16 @@ experiences:
             - Mentoring PhD students / candidates
             - Support other projects
       - role: Postdoctoral Research
-        time: 2017 - 2019
+        time: 2018 - 2019
+        company: University of São Paulo, São Paulo-SP, Brazil
+        details: |
+          Study of the impact on air quality of emission scenarios in the formation of 
+          the secondary pollutants: ozone (O3) and particulate matter (pm 2.5µ) 
+          in Brazilian metropolitan regions using numerical models.
+            - WRF-Chem model
+            - Projection of air quality
+      - role: Postdoctoral Research
+        time: 2017 - 2018
         company: University of São Paulo, São Paulo-SP, Brazil
         details: |
           Research focused to obtaining a complete diagnosis of 
