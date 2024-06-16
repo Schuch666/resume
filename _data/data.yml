@@ -67,101 +67,102 @@ publications:
     intro: |
       List of publications on peer review scienific journals.
     papers:
-      20. title: The impact of exposure assessment on associations between air pollution and cardiovascular mortality risks in the city of Rio de Janeiro, Brazil
+      - title: 20. The impact of exposure assessment on associations between air pollution and cardiovascular mortality risks in the city of Rio de Janeiro, Brazil
         link: "#"
         authors: Seulkee Heo, Daniel Schuch, Washington Leite Junger, Yang Zhang, Maria de Fatima Andrade, Michelle L. Bell
         conference: Submitted to Environmental Research, 2024
 
-      19. title: Air quality modeling intercomparison and multi-scale ensemble chain for Latin America
+      - title: 19. Air quality modeling intercomparison and multi-scale ensemble chain for Latin America
         link: "https://doi.org/10.5194/egusphere-2024-815"
         authors: Pachon, J. E., Opazo, M., Lichtig, P., Hunneus, N., Bouarar, I., Brasseur, G., Li, C. W. Y., Flemming, J., Menut, L., Menares, C., Gallardo, L., Gauss, M., Sofiev, M., Kouznetsov, R., Palamarchuk, J., Dawidowski, L., Rojas, N. Y., Andrade, M. D. F., Gavidia-Calderón, M. E., Delgado Peralta, A. H.,  Schuch, D.
         conference: EGUsphere, 2024
         
-      - title: Air quality modeling in the metropolitan area of São Paulo, Brazil, A review
+      - title: 18. Air quality modeling in the metropolitan area of São Paulo, Brazil, A review
         link: "http://doi.org/10.1016/j.atmosenv.2023.120301"
         authors: Mario Gavidia-Calderón, Daniel Schuch, Angel Vara-Vela, Rita Inoue, Edmilson D. Freitas, Taciana Toledo de A. Albuquerque, Yang Zhang, Maria de Fatima Andrade, Michelle L. Bell
         conference: Atmo. Env., 2024
 
-      - title: A synergistic ozone-climate control to address emerging ozone pollution challenges
+      - title: 17. A synergistic ozone-climate control to address emerging ozone pollution challenges
         link: "http://doi.org/10.1016/j.oneear.2023.07.004"
         authors: Xiaopu Lyu, Ke Li, Hai Guo,Lidia Morawska,Beining Zhou, Yangzong Zeren, Fei Jiang, Changhong Chen, Allen H. Goldstein, Xiaobin Xu, Tao Wang, Xiao Lu, Tong Zhu, Xavier Querol, Satoru Chatani, Mohd Talib Latif, Daniel Schuch, Vinayak Sinha, Prashant Kumar, Benjamin Mullins, Rodrigo Seguel, Min Shao, Likun Xue, Nan Wang, Jianmin Chen, Jian Gao, Fahe Chai, Isobel Simpson, Baerbel Sinha, Donald R. Blake
-        conference: One Earth, 2023.
+        conference: One Earth, 2023
 
-      - title: Towards Unified Online-Coupled Aerosol Parameterization for the Brazilian Global Atmospheric Model (BAM), Aerosol-Cloud Microphysical-Radiation Interactions
+      - title: 16. Towards Unified Online-Coupled Aerosol Parameterization for the Brazilian Global Atmospheric Model (BAM), Aerosol-Cloud Microphysical-Radiation Interactions
         link: "http://doi.org/doi:10.3390/rs15010278"
         authors: Jayant Pendharkar, Silvio Nilo Figueroa, Angel Vara-Vela, R. Phani Murali Krishna, Daniel Schuch, Paulo Yoshio Kubota, Débora Souza Alvim, Eder Paulo Vendrasco, Helber Barros Gomes, Paulo Nobre, Dirceu Luís Herdies
-        conference: Remote Sensing, 2023.
-      - title: Low-Level Atmospheric Flow at the Central North Coast of Brazil
+        conference: Remote Sensing, 2023
+        
+      - title: 15. Low-Level Atmospheric Flow at the Central North Coast of Brazil
         link: "http://doi.org/10.1007/s10546-021-00625-1"
         authors: Luiz E. Medeiros, Gilberto Fisch, Otávio C. Acevedo, Felipe D. Costa, Paulo G. Iriart, Vagner Anabor, Daniel Schuch 
         conference: Boundary-Layer Meteorology, 2021
 
-      - title: Short-Term Responses of Air Quality to Changes in Emissions under the Representative Concentration Pathway 4.5 Scenario over Brazil
+      - title: 14. Short-Term Responses of Air Quality to Changes in Emissions under the Representative Concentration Pathway 4.5 Scenario over Brazil
         link: "https://doi.org/10.3390/atmos11080799"
         authors: Daniel Schuch, Maria de Fatima Andrade, Yang Zhang, Edmilson Dias de Freitas, Michelle L. Bell
         conference: Atmosphere, 2020
 
-      - title: A two decades study on ozone variability and trend over the main urban areas of the São Paulo state, Brazil
+      - title: 13. A two decades study on ozone variability and trend over the main urban areas of the São Paulo state, Brazil
         link: "https://doi.org/10.1007/s11356-019-06200-z"
         authors: Daniel Schuch; Sergio Ibarra Espinosa; Leila Droprinchinski Martins; Vanessa Silveira Barreto Carvalho; Bruna Ferreira Ramin; Jayne Souza Silva; Jorge Alberto Martins; Edmilson Dias de Freitas and Maria de Fatima Andrade
         conference: Environmental Science and Pollution Research, 2019
 
-      - title: EmissV, A preprocessor for WRF-Chem model
+      - title: 12. EmissV, A preprocessor for WRF-Chem model
         link: "https://doi.org/10.30564/jasr.v1i1.347"
         authors: Sergio Ibarra-Espinosa, Daniel Schuch1, Edmilson Dias de Freitas, Maria de Farima Andrade
         conference: Journal of Atmospheric Science Research, 2019
 
-      - title: eixport,An R package to export emissions to atmospheric models
+      - title: 11. eixport,An R package to export emissions to atmospheric models
         link: "https://doi.org/10.21105/joss.00607"
         authors: Sergio Ibarra-Espinosa, Daniel Schuch1, Edmilson Dias de Freitas
         conference: Journal of Open Source Software, 2018
 
-      - title: EmissV, An R package to create vehicular and other emissions for air quality models
+      - title: 10. EmissV, An R package to create vehicular and other emissions for air quality models
         link: "https://doi.org/10.21105/joss.00662"
         authors: Sergio Ibarra-Espinosa, Daniel Schuch1, Edmilson Dias de Freitas
         conference: Journal of Open Source Software, 2018.
 
-      - title: Proper Orthogonal Decomposition and Spectral Analysis of a Wall-Mounted Square Cylinder Wake
+      - title: 9. Proper Orthogonal Decomposition and Spectral Analysis of a Wall-Mounted Square Cylinder Wake
         link: "https://doi.org/10.5028/jatm.v10.867"
         authors: Henrique Fanini Leite, Ana Cristina Avelar, Leandra de Abreu, Daniel Schuch, André Cavalieri
         conference: J. Aerosp. Technol. Manag., 2018
 
-      - title: Rocket emissions representation in atmospheric air quality models, The short-range atmospheric transport and reaction of gases released by solid propellant engines
+      - title: 8. Rocket emissions representation in atmospheric air quality models, The short-range atmospheric transport and reaction of gases released by solid propellant engines
         link: "https://doi.org/10.1002/met.1750"
         authors: Daniel Schuch, Gilberto Fish
         conference: Meteorological Aplications, 2018
 
-      - title: The Long-Range Memory and the Fractal Dimension, A Case Study for Alcântara
+      - title: 7. The Long-Range Memory and the Fractal Dimension, A Case Study for Alcântara
         link: "https://doi.org/10.5028/jatm.v9i4.683"      
         authors: Cleber Souza Corrêa, Daniel Schuch, Antonio Paulo de Queiroz, Gilberto Fisch, Felipe do Nascimento Corrêa, Mariane Mendes Coutinho 
         conference: J. Aerosp. Technol. Manag., 2017
 
-      - title: The Use of an Atmospheric Model to Simulate the Rocket Exhaust Effluents Transport and Dispersion for the Centro de Lançamento de Alcântara
+      - title: 6. The Use of an Atmospheric Model to Simulate the Rocket Exhaust Effluents Transport and Dispersion for the Centro de Lançamento de Alcântara
         link: "https://doi.org/10.5028/jatm.v9i2.740"
         authors: Daniel Schuch, Gilberto Fish
         conference: J. Aerosp. Technol. Manag., 2017
         
-      - title: Padrões de vento a nível de superfície para região da costa norte do Brasil (Surface-level wind patterns for the northern Brazilian coast region)
+      - title: 5. Padrões de vento a nível de superfície para região da costa norte do Brasil (Surface-level wind patterns for the northern Brazilian coast region)
         link: "https://www.redalyc.org/articulo.oa?id=467547689063"
         authors: Luiz Eduardo Medeiros, Gilberto Fisch, Paulo Iriart, Felipe Denardin Costa, Dionnathan Willian Oliveira, Daniel Schuch
         conference: Ciência e Natura, 2016.
 
-      - title: Estudo do escoamento turbulento atmosférico utilizando ensaios em túnel de vento e simulação numérica (Study of atmospheric turbulent flow using wind tunnel and numerical simulation)
+      - title: 4. Estudo do escoamento turbulento atmosférico utilizando ensaios em túnel de vento e simulação numérica (Study of atmospheric turbulent flow using wind tunnel and numerical simulation)
         link: "https://doi.org/10.1590/0102-778620130580"
         authors: Daniel Schuch, Edson R. Marciotto, Otávio Acevedo, Gilberto Fisch, Ana Cristina Avelar
         conference: Revista Brasileira de Meteorologia, 2014
 
-      - title: Análize da influência da estratificação sobre perfis de vento e temperatura em experimentos de túnel de vento (Analysis of the influence of stratification on wind profiles and temperature in wind tunnel experiments)
+      - title: 3. Análize da influência da estratificação sobre perfis de vento e temperatura em experimentos de túnel de vento (Analysis of the influence of stratification on wind profiles and temperature in wind tunnel experiments)
         link: "https://periodicos.ufsm.br/cienciaenatura/article/view/11592/pdf"
         authors: Giuliano Demarco, Franciano S. Puhales, Felipe D. Costa, Daniel Schuch, Amanda F. Faria, Ana C. Avelar, Gilberto Fisch, Otávio C. Acevedo
         conference: Ciência e Natura, 2013
 
-      - title: Perfils de vento e turulência atmosférica simulados em túnel de vento (Wind profiles and atmospheric turbulence simulated in wind tunnel)
+      - title: 2. Perfils de vento e turulência atmosférica simulados em túnel de vento (Wind profiles and atmospheric turbulence simulated in wind tunnel)
         link: "https://doi.org/10.5902/2179460X11588"
         authors: Daniel Schuch, Edson Marcioto, Gilberto Fish, Ana Cristina Avelar
         conference: Ciência e Natura, 2013
 
-      - title: Simulação da dispersão de poluentes na camada limite atmosférica incluindo o efeito da deposição seca no solo (Simulation of dispersion of pollutants in the atmospheric boundary layer including the effect of dry deposition on soil)
+      - title: 1. Simulação da dispersão de poluentes na camada limite atmosférica incluindo o efeito da deposição seca no solo (Simulation of dispersion of pollutants in the atmospheric boundary layer including the effect of dry deposition on soil)
         link: "https://www.redalyc.org/pdf/4675/467546167029.pdf"
         authors: Daniel Schuch, Guilherme Weymar,Igor Furtado, Regis Quadros, Daniela Buske
         conference: Ciência e Natura, 2011
