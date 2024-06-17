@@ -262,8 +262,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      I'm part of a few projects.
+    intro: 
     assignments:
       - title: Wellcome Thrust UK
         link: "https://wellcome.org/"
