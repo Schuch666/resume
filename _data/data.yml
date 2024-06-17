@@ -290,20 +290,19 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section.
+      I'm a creator and contributor of R-packages available in CRAN and github.
     contributions:
       - title: EmissV
         link: "https://CRAN.R-project.org/package=EmissV"
-        tagline: "A R-package that Create and processes emissions for numeric air quality models"
+        tagline: "R-package that Create and processes emissions for numeric air quality models"
 
-      - title: Eixport
+      - title: eixport
         link: "https://CRAN.R-project.org/package=EmissV"
-        tagline: "A R-package to export Emissions to Atmospheric Models"
+        tagline: "R-package to export Emissions to Atmospheric Models"
 
       - title: qualR
         link: "https://docs.ropensci.org/qualR/"
-        tagline: "A R-package to download of air pollutants and meteorological information from QUALAR and MonitorAr Program"
+        tagline: "R-package to download of air pollutants and meteorological information"
 
 skills:
     title: Skills &amp; Proficiency
