@@ -280,7 +280,7 @@ projects:
       - title: VLS-PLUME
         link: "http://lattes.cnpq.br/7656605773440811"
         tagline: "Development of an algorithm to simulate the dispersion of gases and particles released by space vehicles at the Alcântara Launch Center."
-        
+
       - title: GILTT solution
         link: "http://lattes.cnpq.br/7656605773440811"
         tagline: "Analitical solution and Simulation of pollutant dispertion with chemical reaction in the atmospheric planetary boundary layer using transform techniques."
