@@ -28,7 +28,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://github.com/Schuch666/resume/blob/master/pdf/Daniel_Schuch_2024.pdf
-    website: coe.northeastern.edu/Research/CASCADE/Daniel_schuch.html #do not add http://
     website: www.google.com #do not add http://
 
     languages:
@@ -265,6 +264,10 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: iSuper
+        link: "https://impactengines.northeastern.edu/ie/isuper/"
+        tagline: "Intelligent Solutions to Urban Pollution for Equity and Resilience (iSUPER) pair low-cost, adaptable sensing technologies with novel pollution prediction models to accurately identify hyperlocal pollution hot spots in real time."
+        
       - title: Wellcome Thrust UK
         link: "https://wellcome.org/"
         tagline: "Developent and application of WRF-Chem to simulations of the air pollution (ozone and particulate matter) at the street level for two major Brazilian metropolitan areas for the present day and future (2050)."
