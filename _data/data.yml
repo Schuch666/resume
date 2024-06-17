@@ -265,13 +265,13 @@ projects:
     intro: >
       I'm part of a few projects.
     assignments:
-      - title: Wellcome Thrust-UK
+      - title: Wellcome Thrust UK
         link: "https://wellcome.org/"
         tagline: "Developent and application of WRF-Chem to simulations of the air pollution (ozone and particulate matter) at the street level for two major Brazilian metropolitan areas for the present day and future (2050)."
       
       - title: PAPILA
         link: "https://papila-h2020.eu/papila/"
-        tagline: "Prediction of Air Pollution in Latin America and the Caribbean"
+        tagline: "Multi-model prediction of Air Pollution in Latin America and the Caribbean"
 
       - title: QUALAMET
         link: "https://www.researchgate.net/publication/352436880_QUALAMET_Modelagem_do_Impacto_das_Emissoes_Veiculares_com_diferentes_combustiveis_na_qualidade_do_ar_utilizando_informacoes_de_medicoes_ambientais_e_de_inventarios_de_emissoes"
