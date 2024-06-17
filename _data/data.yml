@@ -201,7 +201,7 @@ education:
         details: |
       
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Postdoctoral Research Associate
         time: 2020 - Present
@@ -285,7 +285,7 @@ projects:
         tagline: "Analitical solution and Simulation of pollutant dispertion with chemical reaction in the atmospheric planetary boundary layer using transform techniques."
 
 oss:
-    title: OSS Contributions
+    title: OSS Contribution
     intro: >
       I'm a creator and contributor of Open Source Software R-packages available in CRAN and github.
     contributions:
