@@ -120,7 +120,7 @@ publications:
       - title: 10. EmissV, An R package to create vehicular and other emissions for air quality models
         link: "https://doi.org/10.21105/joss.00662"
         authors: Sergio Ibarra-Espinosa, Daniel Schuch1, Edmilson Dias de Freitas
-        conference: Journal of Open Source Software, 2018.
+        conference: Journal of Open Source Software, 2018
 
       - title: 9. Proper Orthogonal Decomposition and Spectral Analysis of a Wall-Mounted Square Cylinder Wake
         link: "https://doi.org/10.5028/jatm.v10.867"
@@ -145,7 +145,7 @@ publications:
       - title: 5. Padrões de vento a nível de superfície para região da costa norte do Brasil (Surface-level wind patterns for the northern Brazilian coast region)
         link: "https://www.redalyc.org/articulo.oa?id=467547689063"
         authors: Luiz Eduardo Medeiros, Gilberto Fisch, Paulo Iriart, Felipe Denardin Costa, Dionnathan Willian Oliveira, Daniel Schuch
-        conference: Ciência e Natura, 2016.
+        conference: Ciência e Natura, 2016
 
       - title: 4. Estudo do escoamento turbulento atmosférico utilizando ensaios em túnel de vento e simulação numérica (Study of atmospheric turbulent flow using wind tunnel and numerical simulation)
         link: "https://doi.org/10.1590/0102-778620130580"
