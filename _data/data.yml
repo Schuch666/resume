@@ -318,6 +318,9 @@ skills:
       - name: Weather forecast models
         level: 70%
 
+      - name: Github / Cod-cov / github-pages
+        level: 65%
+
       - name: Python / C# / C++ / Fortran
         level: 45%
 
