@@ -268,29 +268,29 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Wellcome Thrust-UK
-        link: "#hook"
+        link: "https://wellcome.org/"
         tagline: "Developent and application of WRF-Chem to simulations of the air pollution (ozone and particulate matter) at the street level for two major Brazilian metropolitan areas for the present day and future (2050)."
       
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: PAPILA
+        link: "https://papila-h2020.eu/papila/"
+        tagline: "Prediction of Air Pollution in Latin America and the Caribbean"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: QUALAMET
+        link: "https://www.researchgate.net/publication/352436880_QUALAMET_Modelagem_do_Impacto_das_Emissoes_Veiculares_com_diferentes_combustiveis_na_qualidade_do_ar_utilizando_informacoes_de_medicoes_ambientais_e_de_inventarios_de_emissoes"
+        tagline: "Modeling the Impact of Vehicle Emissions with different fuels on air quality using information from environmental measurements and emission inventories"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: VLS-PLUME
+        link: "http://lattes.cnpq.br/7656605773440811"
+        tagline: "Development of an algorithm to simulate the dispersion of gases released by space vehicles at the Alcântara Launch Center."
+        
+      - title: GILTT solution
+        link: "http://lattes.cnpq.br/7656605773440811"
+        tagline: "Simulates dispersion of pollutants with simultaneous atmospheric transformation technology."
 
 oss:
     title: OSS Contributions
     intro: >
-      I'm a creator and contributor of R-packages available in CRAN and github.
+      I'm a creator and contributor of Open Source Software R-packages available in CRAN and github.
     contributions:
       - title: EmissV
         link: "https://CRAN.R-project.org/package=EmissV"
@@ -311,7 +311,7 @@ skills:
       - name: R
         level: 90%
         
-      - name: Air Quality modeling
+      - name: Air Quality models
         level: 82%
 
       - name: Bash
