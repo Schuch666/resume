@@ -29,6 +29,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://github.com/Schuch666/resume/blob/master/pdf/Daniel_Schuch_2024.pdf
     website: shorturl.at/EFfvK # coe.northeastern.edu/Research/CASCADE/Daniel_schuch.html #do not add http://
+    orcid: 0000-0001-5977-4519
 
     languages:
       title: Languages
