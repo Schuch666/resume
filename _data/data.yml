@@ -171,7 +171,7 @@ education:
     title: Education
     info:
       - degree: PhD in Science, Sciences and Spatial Technology
-        university: Technological Institue of Aeronautics (ITA)
+        university: Technological Institue of Aeronautics (ITA), São Paulo, Brazil
         time: 2013 - 2017
         details: |
           Development of an algorithm to simulate the dispersion of gases 
@@ -183,7 +183,7 @@ education:
             - Air Quality Modeling
             - Rocket Laucher Effluents
       - degree: MSc in Meteorology, Micrometeorology
-        university: University of Pelotas
+        university: University of Pelotas (UFPEL), Pelotas, Brazil
         time: 2009 - 2011
         details: |
           Simulation of the pollutant dispertion with chemical reaction in the
@@ -196,7 +196,7 @@ education:
             - Air Quality Modeling
             - Analitical Solutions
       - degree: BSc in Meteorology
-        university: University of Pelotas
+        university: University of Pelotas (UFPEL), Pelotas, Brazil
         time: 2005 - 2009
         details: |
       
