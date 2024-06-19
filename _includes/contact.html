@@ -37,18 +37,6 @@
     </li>
     {% endif %}
 
-    {% if sidebar.linkedin %}
-    <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.xing %}
-    <li class="xing"><i class="fab fa-xing"></i>
-      <a href="https://www.xing.com/profile/{{ sidebar.xing }}" target="_blank">{{ sidebar.xing }}</a>
-    </li>
-    {% endif %}
-
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
@@ -58,6 +46,26 @@
     {% if sidebar.gitlab %}
     <li class="gitlab"><i class="fab fa-gitlab"></i>
       <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
+    </li>
+    {% endif %}
+
+        {% if sidebar.orcid %} 
+    <li class="orcid"><i class="fab fa-orcid"></i> 
+      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank" rel="noopener">{{ sidebar.orcid }}</a> 
+    </li> 
+    {% endif %}
+
+    
+
+    {% if sidebar.linkedin %}
+    <li class="linkedin"><i class="fab fa-linkedin"></i>
+      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.xing %}
+    <li class="xing"><i class="fab fa-xing"></i>
+      <a href="https://www.xing.com/profile/{{ sidebar.xing }}" target="_blank">{{ sidebar.xing }}</a>
     </li>
     {% endif %}
 
@@ -96,12 +104,6 @@
       <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
     </li>
     {% endif %}
-
-    {% if sidebar.orcid %} 
-    <li class="orcid"><i class="fab fa-orcid"></i> 
-      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank" rel="noopener">{{ sidebar.orcid }}</a> 
-    </li> 
-    {% endif %}
-
+    
   </ul>
 </div><!--//contact-container-->
