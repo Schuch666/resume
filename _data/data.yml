@@ -299,19 +299,19 @@ oss:
     contributions:
       - title: EmissV
         link: "https://CRAN.R-project.org/package=EmissV"
-        tagline: "R-package that create and processes emissions for numeric air quality models"
+        tagline: "Tools to create and processes emissions for numeric air quality models"
 
       - title: eixport
         link: "https://CRAN.R-project.org/package=eixport"
-        tagline: "R-package to export emissions to atmospheric models"
+        tagline: "Tools to export emissions to atmospheric models"
 
       - title: VEIN
         link: "https://CRAN.R-project.org/package=vein"
-        tagline: "R-package to estimete vehiclar emissions by top-down and bottom-up methods"
+        tagline: "Model that estimete vehiclar emissions by top-down and bottom-up methods"
 
       - title: qualR
         link: "https://github.com/ropensci/qualR"
-        tagline: "R-package to download of air pollutants and meteorological information"
+        tagline: "Tools to download of air pollutants and meteorological information"
 
 skills:
     title: Skills &amp; Proficiency
