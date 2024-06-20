@@ -49,6 +49,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.neu %}
+    <li class="website"><i class="fas fa-globe-americas"></i>
+      <a href="https://coe.northeastern.edu/Research/CASCADE/Daniel_schuch.html" target="_blank">{{ "NEU" }}</a>
+    </li>
+    {% endif %}    
+
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
