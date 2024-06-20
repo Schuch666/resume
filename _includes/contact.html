@@ -33,7 +33,13 @@
 
     {% if sidebar.orcid %} 
     <li class="orcid"><i class="fab fa-orcid"></i> 
-      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank" rel="noopener">{{ sidebar.orcid }}</a> 
+      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank" rel="noopener">{{ "orcid" }}</a> 
+    </li> 
+    {% endif %}
+
+    {% if sidebar.scholar %} 
+    <i class="fa-brands fa-google-scholar"></i>
+      <a href="https://scholar.google.com/citations?user=ss9NS10AAAAJ&hl=pt-BR&oi=ao" target="_blank" rel="noopener">{{ "google-scholar" }}</a> 
     </li> 
     {% endif %}
 
