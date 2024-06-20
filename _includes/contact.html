@@ -43,6 +43,12 @@
     </li> 
     {% endif %}
 
+    {% if sidebar.gate %} 
+    <i class="fa-brands fa-researchgate"></i>
+      <a href="https://www.researchgate.net/profile/Daniel-Schuch-2" target="_blank" rel="noopener">{{ "research-gate" }}</a> 
+    </li> 
+    {% endif %}
+
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
