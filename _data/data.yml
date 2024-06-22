@@ -59,7 +59,7 @@ sidebar:
 career-profile:
     title: Meteorologist, PhD in Science
     summary: |
-      Postdoctoral Research Associate at Notheastern University. 
+      Postdoctoral Research Associate at Northeastern University. 
       I have specialization in micrometeorology, I bring extensive expertise 
       in numerical weather and air quality models and the development of computational tools. 
       My professional interests include atmospheric boundary layer, 
@@ -134,7 +134,7 @@ publications:
       - title: 8. Rocket emissions representation in atmospheric air quality models, The short-range atmospheric transport and reaction of gases released by solid propellant engines
         link: "https://doi.org/10.1002/met.1750"
         authors: Daniel Schuch, Gilberto Fish
-        conference: Meteorological Aplications, 2018
+        conference: Meteorological Applications, 2018
 
       - title: 7. The Long-Range Memory and the Fractal Dimension, A Case Study for Alcântara
         link: "https://doi.org/10.5028/jatm.v9i4.683"      
@@ -211,7 +211,7 @@ experiences:
         time: 2020 - Present
         company: Northeastern University, Boston-MA, U.S.
         details: |
-          Application, evaluation and development of Air Quality models for multiple projects and regions, and other activityes at CASCADE (Clean Air Smart City and Digital Earth) lab           
+          Application, evaluation and development of Air Quality models for multiple projects and regions, and other activities at CASCADE (Clean Air Smart City and Digital Earth) lab           
             - Brazil: multiyear application and evaluation of WRF-Chem model
             - US: Development of  GHG emissions (for WRF-GHG and WRF-Chem-GHG) and model evaluation
             - Dubai: Application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios
@@ -245,7 +245,7 @@ experiences:
           from the thermoelectric power generation plant at 
           Porto do Itaqui located in São Luís (Maranhão) using 
           WRF-CHem  and analysis of the results. 
-          The analyzes were delivered in the form of media 
+          The analyzes was delivered in the form of media 
           (images and animation) and a technical report together 
           with the technical opinion.
             - WRF-Chem model
@@ -270,11 +270,11 @@ projects:
     assignments:
       - title: iSuper
         link: "https://impactengines.northeastern.edu/ie/isuper/"
-        tagline: "Intelligent Solutions to Urban Pollution for Equity and Resilience (iSUPER) pair low-cost, adaptable sensing technologies with novel pollution prediction models to accurately identify hyperlocal pollution hot spots in real time."
+        tagline: "Intelligent Solutions to Urban Pollution for Equity and Resilience (iSUPER) pairs low-cost, adaptable sensing technologies with novel pollution prediction models to accurately identify hyperlocal pollution hot spots in real time."
         
       - title: Wellcome Thrust UK
         link: "https://wellcome.org/"
-        tagline: "Developent and application of WRF-Chem to simulations of the air pollution (ozone and particulate matter) at the street level for two major Brazilian metropolitan areas for the present day and future (2050)."
+        tagline: "Development and application of WRF-Chem to simulations of the air pollution (ozone and particulate matter) at the street level for two major Brazilian metropolitan areas for the present day and future (2050)."
       
       - title: PAPILA
         link: "https://papila-h2020.eu/papila/"
@@ -290,7 +290,7 @@ projects:
 
       - title: GILTT solution
         link: "http://lattes.cnpq.br/7656605773440811"
-        tagline: "Analitical solution and Simulation of pollutant dispertion with chemical reaction in the atmospheric planetary boundary layer using transform techniques."
+        tagline: "Analytical solution and Simulation of pollutant dispersion with chemical reaction in the atmospheric planetary boundary layer using transform techniques."
 
 oss:
     title: OSS Contribution
