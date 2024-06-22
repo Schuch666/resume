@@ -60,7 +60,7 @@ career-profile:
     title: Meteorologist, PhD in Science
     summary: |
       Postdoctoral Research Associate at Northeastern University. 
-      I have specialization in micrometeorology, I bring extensive expertise 
+      I have a specialization in micrometeorology, and I bring extensive expertise 
       in numerical weather and air quality models and the development of computational tools. 
       My professional interests include atmospheric boundary layer, 
       turbulence, transport phenomena, wind tunnel essays, atmospheric chemistry 
@@ -215,8 +215,8 @@ experiences:
             - Brazil: multiyear application and evaluation of WRF-Chem model
             - US: Development of  GHG emissions (for WRF-GHG and WRF-Chem-GHG) and model evaluation
             - Dubai: Application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios
-            - Dissemination of scientific findings on conference and scientific journals
-            - Mentoring PhD students / candidates
+            - Dissemination of scientific findings in conference and scientific journals
+            - Mentoring PhD students/candidates
             - Support other projects
       - role: Postdoctoral Research
         time: 2018 - 2019
@@ -231,10 +231,10 @@ experiences:
         time: 2017 - 2018
         company: University of São Paulo, São Paulo-SP, Brazil
         details: |
-          Research focused to obtaining a complete diagnosis of 
+          Research focused on obtaining a complete diagnosis of 
           the impact of vehicle fuels on air quality in urban regions in the 
-          southeast of Brazil and adjacent regions, through 
-          atmospheric modeling and scenario studies.
+          southeast of Brazil and adjacent areas, through 
+          atmospheric modelling and scenario studies.
             - WRF-Chem model
             - VEIN model   
       - role: Specialist external consultant
@@ -254,9 +254,9 @@ experiences:
         time: 2011 - 2013
         company: INPE, São José dos Campos-SP, Brazil
         details: |
-          Research focused on the determination of turbulent flow behavior in 
-          clearing regions and the mechanisms of atmospheric interaction between 
-          clearings and the Amazon forest, phenomena such as recirculation, 
+          The research focused on determining turbulent flow behaviour in 
+          clearing regions and the mechanisms of atmospheric interaction 
+          between clearings and the Amazon forest, such as recirculation, 
           boundary layer structure and formation of 
           organized structures for this type of flow regime.
             - Large Edge Simulation (LES) model
@@ -299,7 +299,7 @@ oss:
     contributions:
       - title: EmissV
         link: "https://CRAN.R-project.org/package=EmissV"
-        tagline: "Tools to create and processes emissions for numeric air quality models"
+        tagline: "Tools to create and process emissions for numeric air quality models"
 
       - title: eixport
         link: "https://CRAN.R-project.org/package=eixport"
@@ -311,7 +311,7 @@ oss:
 
       - title: qualR
         link: "https://github.com/ropensci/qualR"
-        tagline: "Tools to download of air pollutants and meteorological information"
+        tagline: "Tools to download air pollutants and meteorological information"
 
 skills:
     title: Skills &amp; Proficiency
