@@ -245,7 +245,7 @@ experiences:
           from the thermoelectric power generation plant at
           Porto do Itaqui located in São Luís (Maranhão) using
           WRF-CHem  and analysis of the results.
-          The analyzes was delivered in the form of media
+          The analysis was delivered in the form of media
           (images and animation) and a technical report together
           with the technical opinion.
             - WRF-Chem model
@@ -270,7 +270,7 @@ projects:
     assignments:
       - title: iSuper
         link: "https://impactengines.northeastern.edu/ie/isuper/"
-        tagline: "Intelligent Solutions to Urban Pollution for Equity and Resilience (iSUPER) pairs low-cost, adaptable sensing technologies with novel pollution prediction models to accurately identify hyperlocal pollution hot spots in real time."
+        tagline: "Intelligent Solutions to Urban Pollution for Equity and Resilience (iSUPER) pairs low-cost, adaptable sensing technologies with novel pollution prediction models to accurately identify hyperlocal pollution hot spots in real-time."
         
       - title: Wellcome Thrust UK
         link: "https://wellcome.org/"
@@ -307,7 +307,7 @@ oss:
 
       - title: VEIN
         link: "https://CRAN.R-project.org/package=vein"
-        tagline: "Model that estimete vehiclar emissions by top-down and bottom-up methods"
+        tagline: "Model that estimates vehicular emissions by top-down and bottom-up methods"
 
       - title: qualR
         link: "https://github.com/ropensci/qualR"
