@@ -68,7 +68,7 @@ career-profile:
       of the atmosphere through innovative scientific research.
 
 publications:
-    title: Publication list
+    title: Publication
     intro: |
     papers:
       - title: 20. The impact of exposure assessment on associations between air pollution and cardiovascular mortality risks in the city of Rio de Janeiro, Brazil
@@ -295,7 +295,7 @@ projects:
 oss:
     title: OSS Contribution
     intro: >
-      I'm a creator and contributor of Open Source Software R-packages in CRAN and github.
+      I'm a creator and contributor of Open Source Software R-packages in CRAN (Comprehensive R Archive Network, official R repository) and github.
     contributions:
       - title: EmissV
         link: "https://CRAN.R-project.org/package=EmissV"
@@ -322,22 +322,22 @@ skills:
 
     toolset:
       - name: R
-        level: 90%
+        level: 95%
         
       - name: Air Quality models
-        level: 82%
+        level: 89%
 
       - name: Bash
-        level: 80%
+        level: 85%
 
       - name: Weather forecast models
-        level: 70%
+        level: 75%
 
       - name: Github / Cod-cov / github-pages
         level: 65%
 
       - name: Python / C# / C++ / Fortran
-        level: 45%
+        level: 55%
 
 certifications:
       title: Certifications
