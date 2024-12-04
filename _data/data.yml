@@ -72,9 +72,9 @@ publications:
     intro: |
     papers:
       - title: 20. The impact of exposure assessment on associations between air pollution and cardiovascular mortality risks in the city of Rio de Janeiro, Brazil
-        link: "#"
+        link: "http://doi.org/10.1016/j.envres.2024.120150"
         authors: Seulkee Heo, Daniel Schuch, Washington Leite Junger, Yang Zhang, Maria de Fatima Andrade, Michelle L. Bell
-        conference: Submitted to Environmental Research, 2024
+        conference: Environmental Research, 2024
 
       - title: 19. Air quality modeling intercomparison and multi-scale ensemble chain for Latin America
         link: "https://doi.org/10.5194/egusphere-2024-815"
