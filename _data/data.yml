@@ -318,7 +318,7 @@ oss:
         link: "https://CRAN.R-project.org/package=eixport"
         tagline: "Tools to export emissions to atmospheric models"
 
-      - title: VEIN
+      - title: vein
         link: "https://CRAN.R-project.org/package=vein"
         tagline: "Model that estimates vehicular emissions by top-down and bottom-up methods"
 
