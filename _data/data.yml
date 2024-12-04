@@ -301,6 +301,10 @@ oss:
         link: "https://CRAN.R-project.org/package=EmissV"
         tagline: "Tools to create and process emissions for numeric air quality models"
 
+      - title: eva3dm
+        link: "https://CRAN.R-project.org/package=eva3dm"
+        tagline: "Evaluation of 3D Meteorological and Air Quality Models"
+
       - title: eixport
         link: "https://CRAN.R-project.org/package=eixport"
         tagline: "Tools to export emissions to atmospheric models"
