@@ -59,14 +59,14 @@ sidebar:
 career-profile:
     title: Meteorologist, PhD in Science
     summary: |
-      Postdoctoral Research Associate at Northeastern University.
-      I have a specialization in micrometeorology, and I bring extensive expertise
-      in numerical weather and air quality models and the development of computational tools.
-      My professional interests include atmospheric boundary layer,
-      turbulence, transport phenomena, wind tunnel essays, atmospheric chemistry
-      and analytical solutions. My work is focused on advancing our understanding
-      of the atmosphere through innovative scientific research.
-
+      I am a Postdoctoral Research Associate at Northeastern University 
+      with a specialization in air quality model development, evaluation, 
+      and application. I bring a wealth of experience in computational tool 
+      development and a deep interest in topics such as atmospheric boundary 
+      layer dynamics, turbulence, transport phenomena, and atmospheric chemistry. 
+      My goal is to advance the understanding of the atmosphere through 
+      pioneering research and innovative analytical approaches.
+      
 publications:
     title: Publication
     intro: |
@@ -174,7 +174,7 @@ publications:
 education:
     title: Education
     info:
-      - degree: DSC, Sciences and Spatial Technology
+      - degree: DSC in Sciences and Spatial Technology
         university: Technological Institue of Aeronautics (ITA), São Paulo, Brazil
         time: 2013 - 2017
         details: |
