@@ -211,13 +211,22 @@ experiences:
         time: 2020 - Present
         company: Northeastern University, Boston-MA, U.S.
         details: |
-          Application, evaluation and development of Air Quality models for multiple projects and regions, and other activities at CASCADE (Clean Air Smart City and Digital Earth) lab        
+          Application, evaluation and development of Air Quality models for multiple projects and regions at CASCADE (Clean Air Smart City and Digital Earth) lab        
             - Brazil: multiyear application and evaluation of WRF-Chem model
             - US: Development of  GHG emissions (for WRF-GHG and WRF-Chem-GHG) and model evaluation
             - Dubai: Application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios
             - Dissemination of scientific findings in conference and scientific journals
             - Mentoring PhD students/candidates
-            - Support other projects
+
+      - role: Instructor for WRF-Chem model
+        time: 2024 - 2024
+        company: World Meteorological Organization (WMO)
+        details: |
+          WRF-Chem model training school on air quality prediction and forecasting for "Training Course on Seamless Prediction of Air Pollution in Africa"
+            - Development of model domain, inputs and simulation sensitivity tests cases
+            - Presenter in On-line training scession
+            - Support for the hand-on simulation
+
       - role: Postdoctoral Research
         time: 2018 - 2019
         company: University of São Paulo, São Paulo-SP, Brazil
