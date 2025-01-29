@@ -301,6 +301,12 @@ projects:
         link: "http://lattes.cnpq.br/7656605773440811"
         tagline: "Analytical solution and Simulation of pollutant dispersion with chemical reaction in the atmospheric planetary boundary layer using transform techniques."
 
+awards:
+assignments:
+      - title: XIV Prêmio AEA de Meio Ambiente (XIV Brazilian Association of Automotive Engineering Environmental Award)
+        link: "https://www.aea.org.br/premio/downloads/2021"
+        tagline: "Award for the QUALAMET project (Modeling of the Impact of Vehicle Emissions with Different Fuels on Air Quality) in the Environmental Responsibility category."
+
 oss:
     title: OSS Contribution
     intro: >
