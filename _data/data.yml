@@ -73,6 +73,11 @@ publications:
     title: Publication
     intro: |
     papers:
+      - title: 21. eva3dm: A R-package for model evaluation of 3D weather and air quality models
+        link: "https://joss.theoj.org/papers/10.21105/joss.07797"
+        authors: Daniel Schuch
+        conference: Journal of Open Source Software, 2025
+
       - title: 20. The impact of exposure assessment on associations between air pollution and cardiovascular mortality risks in the city of Rio de Janeiro, Brazil
         link: "http://doi.org/10.1016/j.envres.2024.120150"
         authors: Seulkee Heo, Daniel Schuch, Washington Leite Junger, Yang Zhang, Maria de Fatima Andrade, Michelle L. Bell
