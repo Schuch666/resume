@@ -73,7 +73,7 @@ publications:
     title: Publication
     intro: |
     papers:
-      - title: 21. eva3dm: A R-package for model evaluation of 3D weather and air quality models
+      - title: "21. eva3dm: A R-package for model evaluation of 3D weather and air quality models"
         link: "https://joss.theoj.org/papers/10.21105/joss.07797"
         authors: Daniel Schuch
         conference: Journal of Open Source Software, 2025
