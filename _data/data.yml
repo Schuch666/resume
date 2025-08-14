@@ -361,7 +361,7 @@ skill_bullet:
       - name: Python
         level: Advanced
         description: scripting and analysis
-      - name: C# / C++ / Fortran
+      - name: Fortran / C# / C++
         level: Intermediate
         description: compiling and debugging
       - name: Bash / Csh / Zsh
