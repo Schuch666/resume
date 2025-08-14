@@ -354,7 +354,8 @@ skill_bullet:
     title: Programming & Development
     toolset:
       - name: R
-        description: Advanced, R package development
+        level: Advanced
+        description: R package development
       - name: Python
         description: Advanced, scripting and analysis
       - name: C# / C++
