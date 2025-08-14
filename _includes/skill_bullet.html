@@ -9,9 +9,10 @@
     {{ skills.title }}
   </h2>
 
-  <ul class="skillset" style="list-style-type: disc; padding-left: 0px; margin-top: 0;">
+  <ul class="skillset" style="padding-left: 0px; margin-top: 0; list-style: none;">
     {% for skill in skills.toolset %}
-    <li class="item" style="margin-bottom: 5px;">
+    <li class="item" style="margin-bottom: 5px; position: relative; padding-left: 12px;">
+      <span style="position: absolute; left: 0; top: 0;">•</span>
       <strong>{{ skill.name }}:</strong> {{ skill.description }}
     </li>
     {% endfor %}
