@@ -382,12 +382,12 @@ skill_bullet:
         description: Data processing, scripting, visualization and analysis
 
   supercomputers:
-    title: Supercomputing & Workflow
+    title: Supercomputing
     toolset:
       - name: HPC
         level: Advanced
         description: Derecho, Anvil, Discovery, Cheyene, Stampede2
-      - name: Workflow & Job Schedulers
+      - name: Job Schedulers & Workflow
         level: Intermediate
         description: Slurm, PBS, rococo
 
