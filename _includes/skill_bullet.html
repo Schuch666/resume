@@ -21,7 +21,7 @@
     {% for skill in category[1].toolset %}
     <li class="item" style="margin-bottom: 5px; position: relative; padding-left: 12px;">
       <span style="position: absolute; left: 0; top: 0;">•</span>
-      <strong>{{ skill.name }}:</strong> 
+      <strong>{{ skill.name }}</strong> 
       {% if skill.level %} ({{ skill.level }}){% endif %}: {{ skill.description }}
     </li>
     {% endfor %}
