@@ -342,14 +342,43 @@ oss:
         tagline: "Tools to download air pollutants and meteorological information"
 
 skill_bullet:
-  title: Modeling Skills & Proficiency
-  toolset:
-    - name: Air Quality Models
-      description: WRF-Chem (emissions, boundary conditions, physics), UFS-CMAQ, CAMx
-    - name: Weather Forecast Models
-      description: WRF (NWP, nested domains, physics schemes), UFS Model, WRFDA (data assimilation)
-    - name: Ocean Models
-      description: ROMS (circulation, coupling with WRF-Chem)
+  modeling:
+    title: Modeling Skills & Proficiency
+    toolset:
+      - name: Air Quality Models
+        description: WRF-Chem (emissions, boundary conditions, physics), UFS-CMAQ, CAMx
+      - name: Weather Forecast Models
+        description: WRF (NWP, nested domains, physics schemes), UFS Model, WRFDA (data assimilation)
+
+  programming:
+    title: Programming & Development
+    toolset:
+      - name: R
+        description: Advanced, R package development
+      - name: Python
+        description: Advanced, scripting and analysis
+      - name: C# / C++
+        description: Intermediate, compiling and debugging
+      - name: Bash / CSH
+        description: Intermediate
+
+  data_analysis:
+    title: Data Analysis & Processing
+    toolset:
+      - name: Emission Processing
+        description: CMAQ, WRF-Chem preprocessing
+      - name: Observation Comparison
+        description: Model-observation comparison, statistical analysis
+      - name: Python
+        description: Data manipulation, plotting
+
+  supercomputers:
+    title: Supercomputing & Workflow
+    toolset:
+      - name: HPC
+        description: Anvil, Discovery, Stampede2
+      - name: Workflow & Job Schedulers
+        description: Slurm, PBS, job submission, scripting
 
 skills:
     title: Skills &amp; Proficiency
