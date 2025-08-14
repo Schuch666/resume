@@ -1,23 +1,30 @@
 {% assign all_skills = site.data.data.skill_bullet %} 
 {% if all_skills %}
-  {% for category in all_skills %}
-  <section class="skills-section section">
-    <h2 class="section-title">
-      <span class="fa-stack fa-xs">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-      </span>
-      {{ category[1].title }}
-    </h2>
+<section class="skills-section section">
+  <!-- Main section title with icon -->
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    Skills & Proficiency
+  </h2>
 
-    <ul class="skillset" style="padding-left: 0px; margin-top: 0; list-style: none;">
-      {% for skill in category[1].toolset %}
-      <li class="item" style="margin-bottom: 5px; position: relative; padding-left: 12px;">
-        <span style="position: absolute; left: 0; top: 0;">•</span>
-        <strong>{{ skill.name }}:</strong> {{ skill.description }}
-      </li>
-      {% endfor %}
-    </ul>
-  </section>
+  {% for category in all_skills %}
+  <!-- Subsection title (all caps, normal font, no icon) -->
+  <h3 class="subsection-title" style="text-transform: uppercase; font-weight: normal; margin-top: 15px;">
+    {{ category[1].title }}
+  </h3>
+
+  <!-- Skill items -->
+  <ul class="skillset" style="padding-left: 0px; margin-top: 5px; list-style: none;">
+    {% for skill in category[1].toolset %}
+    <li class="item" style="margin-bottom: 5px; position: relative; padding-left: 12px;">
+      <span style="position: absolute; left: 0; top: 0;">•</span>
+      <strong>{{ skill.name }}:</strong> {{ skill.description }}
+    </li>
+    {% endfor %}
+  </ul>
   {% endfor %}
+</section>
 {% endif %}
