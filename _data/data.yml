@@ -341,6 +341,16 @@ oss:
         link: "https://github.com/ropensci/qualR"
         tagline: "Tools to download air pollutants and meteorological information"
 
+skill_bullet:
+  title: Modeling Skills & Proficiency
+  toolset:
+    - name: Air Quality Models
+      description: WRF-Chem (emissions, boundary conditions, physics), UFS-CMAQ, CAMx
+    - name: Weather Forecast Models
+      description: WRF (NWP, nested domains, physics schemes), UFS Model, WRFDA (data assimilation)
+    - name: Ocean Models
+      description: ROMS (circulation, coupling with WRF-Chem)
+
 skills:
     title: Skills &amp; Proficiency
 
