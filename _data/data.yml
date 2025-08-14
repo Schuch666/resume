@@ -343,25 +343,30 @@ oss:
 
 skill_bullet:
   modeling:
-    title: Modeling Skills & Proficiency
+    title: Modeling
     toolset:
       - name: Air Quality Models
-        description: WRF-Chem (emissions, boundary conditions, physics), UFS-CMAQ, CAMx
+        level: Advanced
+        description: WRF-Chem (emissions, boundary conditions, physics schemes, model modification), UFS-CMAQ, CAMx
       - name: Weather Forecast Models
-        description: WRF (NWP, nested domains, physics schemes), UFS Model, WRFDA (data assimilation)
+        level: Advanced
+        description: WRF (NWP, nested domains, physics schemes), WRFDA (data assimilation), UFS Model
 
   programming:
     title: Programming & Development
     toolset:
       - name: R
         level: Advanced
-        description: R package development
+        description: R package development, scripting and analysis
       - name: Python
-        description: Advanced, scripting and analysis
-      - name: C# / C++
-        description: Intermediate, compiling and debugging
-      - name: Bash / CSH
-        description: Intermediate
+        level: Advanced
+        description: scripting and analysis
+      - name: C# / C++ / Fortran
+        level: Intermediate
+        description: compiling and debugging
+      - name: Bash / Csh / Zsh
+        level: Intermediate
+        description: Autmation, model job submission
 
   data_analysis:
     title: Data Analysis & Processing
