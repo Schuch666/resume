@@ -1,22 +1,23 @@
-{% assign skills = site.data.data.skill_bullet %} 
-{% if skills %}
-<section class="skills-section section">
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ skills.title }}
-  </h2>
+{% assign all_skills = site.data.data.skill_bullet %} 
+{% if all_skills %}
+  {% for category in all_skills %}
+  <section class="skills-section section">
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+      </span>
+      {{ category[1].title }}
+    </h2>
 
-  <ul class="skillset" style="padding-left: 0px; margin-top: 0; list-style: none;">
-    {% for skill in skills.toolset %}
-    <li class="item" style="margin-bottom: 5px; position: relative; padding-left: 12px;">
-      <span style="position: absolute; left: 0; top: 0;">•</span>
-      <strong>{{ skill.name }}:</strong> {{ skill.description }}
-    </li>
-    {% endfor %}
-  </ul>
-</section>
-<!--//skills-section-->
+    <ul class="skillset" style="padding-left: 0px; margin-top: 0; list-style: none;">
+      {% for skill in category[1].toolset %}
+      <li class="item" style="margin-bottom: 5px; position: relative; padding-left: 12px;">
+        <span style="position: absolute; left: 0; top: 0;">•</span>
+        <strong>{{ skill.name }}:</strong> {{ skill.description }}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
 {% endif %}
