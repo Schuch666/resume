@@ -346,7 +346,7 @@ skill_bullet:
     title: Modeling
     toolset:
       - name: Air Quality Models
-        level: Advanced
+        level: Expert
         description: WRF-Chem (emissions, boundary conditions, physics schemes, model modification), UFS-CMAQ, CAMx
       - name: Weather Forecast Models
         level: Advanced
@@ -356,7 +356,7 @@ skill_bullet:
     title: Programming & Development
     toolset:
       - name: R
-        level: Advanced
+        level: Expert
         description: R package development, scripting and analysis
       - name: Python
         level: Advanced
@@ -372,19 +372,24 @@ skill_bullet:
     title: Data Analysis & Processing
     toolset:
       - name: Emission Processing
+        level: Advanced
         description: CMAQ, WRF-Chem preprocessing
       - name: Observation Comparison
+        level: Advanced
         description: Model-observation comparison, statistical analysis
-      - name: Python
-        description: Data manipulation, plotting
+      - name: R and Python
+        level: Advanced
+        description: Data processing, scripting, visualization and analysis
 
   supercomputers:
     title: Supercomputing & Workflow
     toolset:
       - name: HPC
-        description: Anvil, Discovery, Stampede2
+        level: Advanced
+        description: Derecho, Anvil, Discovery, Cheyene, Stampede2
       - name: Workflow & Job Schedulers
-        description: Slurm, PBS, job submission, scripting
+        level: Intermediate
+        description: Slurm, PBS, rococo
 
 skills:
     title: Skills &amp; Proficiency
