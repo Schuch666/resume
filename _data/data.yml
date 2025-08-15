@@ -221,22 +221,18 @@ experiences:
         company: Northeastern University, Boston-MA, U.S.
         details: |
           Mentoring of PhD candidates.
-          Application, evaluation and development of Air Quality models for multiple projects and regions at CASCADE (Clean Air Smart City and Digital Earth) lab        
-            - Brazil: Co-Lead the develpment and optimization of WRF-Chem simulations for meteorology and air quality for two main Braszilian metropolitan areas
-            - US: Development of reusable scientific computing tools to calculate GHG emissions (for WRF-GHG and WRF-Chem-GHG), implementation of the data assimilation in WRF model for CONUS, and aplication and evaluation of the UFS-CMAQ model for FIREX-AQ campaing period
+          Application, evaluation and development of Air Quality models for multiple projects and regions at CASCADE (Clean Air Smart City and Digital Earth) lab, across regions including Brazil, US, Africa, and Dubai.       
+            - Brazil: Multi-year WRF-Chem projections of air quality
+            - US: Built GHG emission frameworks for WRF-GHG, and aplication and evaluation of UFS-CMAQ
             - Africa: Aplication and optimizatoin of WRF-Chem to simulate PM2.5
-            - Dubai: Lead the application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios
-            - Development of satellite–model comparison tools (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, TEMPO, MAIAC) to evaluate model radiation, cloud and column concentration, identifying key biases on WRF-Chem and CAMx
-            - Automated spatial and temporal model data post-processing in R, reducing the analysis time by 75%.
-            - Collaborated with HPC administrators and support to debug and deploy modeling workflows on supercomputing clusters
+            - Dubai: Applied CAMx with advanced tools for source apportionment and emissions scenario simulation
       - role: Instructor for WRF-Chem model
         time: 2024 - 2024
         company: World Meteorological Organization (WMO)
         details: |
           WRF-Chem model training school on air quality prediction and forecasting for "Training Course on Seamless Prediction of Air Pollution in Africa"
-            - Development of model domain, inputs and simulation sensitivity tests cases
-            - Presenter in On-line training scession
-            - Support for the hand-on simulation
+            - Designed model domains, prepared inputs, and performed sensitivity analysis for WRF-Chem during a training course on air quality forecasting in Africa
+            - Delivered online instruction and led hands-on simulation sessions for international trainees
       - role: Postdoctoral Research
         time: 2018 - 2019
         company: University of São Paulo, São Paulo-SP, Brazil
@@ -244,7 +240,8 @@ experiences:
           Study of the impact on air quality of emission scenarios in the formation of
           the secondary pollutants: ozone and particulate matter
           in Brazilian metropolitan regions using numerical models.
-            - Conducted regional climate and air quality simulations, focusing on ozone and particulate matter dynamics
+            - Investigated secondary pollutant (ozone and PM) formation under varied emission and climate scenarios using WRF-Chem
+            - Generated insights into future air quality trends across Brazilian metropolitan regions
       - role: Postdoctoral Research
         time: 2017 - 2018
         company: University of São Paulo, São Paulo-SP, Brazil
@@ -253,9 +250,7 @@ experiences:
           the impact of vehicle fuels on air quality in urban regions in the
           southeast of Brazil and adjacent areas, through
           atmospheric modelling and scenario studies.
-            - Implemented of multi-method emission preprocessing for WRF-Chem using R, ensuring reusability
-            - Application of high resolution WRF-Chem model using street level emissions from VEIN model
-            - Assessing the impact different types of fuels on air quality of Metropolitan Area of São Paulo (Brazil) 
+            - Analyzed the impact of vehicle fuels on air quality in São Paulo through scenario modeling and WRF-Chem simulations using street-level emissions
       - role: Specialist external consultant
         time: 2016 - 2016
         company: ENEVA LTD., Rio de Janeiro-RJ, Brazil
@@ -267,8 +262,7 @@ experiences:
           The analysis was delivered in the form of media
           (images and animation) and a technical report together
           with the technical opinion.
-            - Aplication of the WRF-Chem model
-            - Assessment of the impact of emissions from power plant
+            - Simulated dispersion of SO₂ from a thermoelectric plant using WRF-Chem; produced technical reports, visualizations, and animations for stakeholders
       - role: Researcher DTI-2
         time: 2011 - 2013
         company: INPE, São José dos Campos-SP, Brazil
@@ -278,8 +272,7 @@ experiences:
           between clearings and the Amazon forest, such as recirculation,
           boundary layer structure and formation of
           organized structures for this type of flow regime.
-            - Application of Large Edge Simulation (LES) model
-            - Wind tunnel essay to characterize the turbulence on Amazon clearings
+            - Modeled turbulent flow and boundary layer dynamics for clearings in the Amazon forest using LES and wind tunnel studies
 
 projects:
     title: Projects
