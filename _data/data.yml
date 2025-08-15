@@ -351,6 +351,9 @@ skill_bullet:
       - name: Weather Forecast Models
         level: Advanced
         description: WRF (NWP, nested domains, physics schemes), WRFDA (data assimilation), UFS Model
+      - name: Emission Models
+        level: Intermediate
+        description: VEIN, EmissV, SMOKE
       - name: Oceanic Models
         level: Intermediate
         description: WRF-Chem-ROMS
