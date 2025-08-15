@@ -63,12 +63,12 @@ career-profile:
     summary: |
       Atmospheric scientist specializing in air quality modeling and 
       computational tool development. I currently work as a Postdoctoral 
-      Research Associate at Northeastern University with in air quality 
-      model aplication, evaluation, and development. I bring a wealth of 
-      experience in computational tool development and a deep interest in 
-      topics such as atmospheric boundary layer dynamics, turbulence, 
-      transport phenomena, and atmospheric chemistry. My goal is to 
-      advance the understanding of the atmosphere through 
+      Research Associate at Northeastern University with experience in 
+      air-quality model application, evaluation, and development.      
+      I bring a wealth of experience in computational tool development 
+      and a deep interest in topics such as atmospheric boundary layer 
+      dynamics, turbulence, transport phenomena, and atmospheric chemistry. 
+      My goal is to advance the understanding of the atmosphere through 
       pioneering research and innovative analytical approaches.
       
 publications:
@@ -224,7 +224,7 @@ experiences:
           Application, evaluation and development of Air Quality models for multiple projects and regions at CASCADE (Clean Air Smart City and Digital Earth) lab, across regions including Brazil, US, Africa, and Dubai.       
             - Brazil: Multi-year WRF-Chem projections of air quality
             - US: Built GHG emission frameworks for WRF-GHG, and aplication and evaluation of UFS-CMAQ
-            - Africa: Aplication and optimizatoin of WRF-Chem to simulate PM2.5
+            - Africa: Application and optimization of WRF-Chem to simulate PM2.5
             - Dubai: Applied CAMx with advanced tools for source apportionment and emissions scenario simulation
       - role: Instructor for WRF-Chem model
         time: 2024 - 2024
@@ -353,7 +353,7 @@ skill_bullet:
         description: WRF-Chem-ROMS
 
   programming:
-    title: Programming & Git
+    title: Programmer & Git
     toolset:
       - name: R
         level: Expert
@@ -366,7 +366,7 @@ skill_bullet:
         description: compiling and debugging
       - name: Bash / Csh / Zsh
         level: Intermediate
-        description: Autmation, model job submission
+        description: Automation, model job submission
       - name: Git
         level: Intermediate
         description: version control and colaorative development
@@ -379,26 +379,26 @@ skill_bullet:
         description: WRF-Chem, CAMx, online-CMAQ (UFS)
       - name: Observation Comparison
         level: Advanced
-        description: Model-observation comparison, statistical analysis
+        description: Model-observation comparison and statistical analysis
       - name: R and Python
         level: Advanced
-        description: Data processing, scripting, visualization and analysis
+        description: Data processing, scripting, visualization, and analysis
       - name: Satellite
         level: Advanced
         description: Processing, visualization and use of sattelite datasets (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, TEMPO)
       - name: Specialized datasets
         level: Advanced
-        description: Processing, visualization and use of sattelite datasets (METAR, INMET, AQS, AERONET, MERGE, GPCP, PRISM, TMPA)
+        description: Processing, visualization and use of specialized datasets (METAR, INMET, AQS, AERONET, MERGE, GPCP, PRISM, TMPA)
 
   supercomputers:
     title: Supercomputing
     toolset:
       - name: HPC
         level: Advanced
-        description: Globus, Derecho, Anvil, Discovery, Cheyene, Stampede2
+        description: Globus, Derecho, Anvil, Discovery, Cheyenne, Stampede2
       - name: Job Schedulers & Workflow
         level: Intermediate
-        description: Slurm, PBS, rococo
+        description: Slurm, PBS, Rococo
 
 skills:
     title: Skills &amp; Proficiency
