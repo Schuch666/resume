@@ -385,7 +385,7 @@ skill_bullet:
         description: Data processing, scripting, visualization, and analysis
       - name: Satellite and Specialized datasets
         level: Advanced
-        description: Processing, visualization and use of grided datasets (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, MERGE, GPCP, PRISM, TMPA, TEMPO) and non-grided datasets (METAR, INMET, AQS, AERONET, Purple Air)
+        description: Processing, visualization and use of grided datasets (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, MERGE, GPCP, PRISM, TMPA, TEMPO) and non-grided datasets (METAR, INMET, AQS, AERONET, Purple Air) to improve and validade models
 
   supercomputers:
     title: Supercomputing
