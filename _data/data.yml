@@ -44,7 +44,7 @@ sidebar:
           level: Professional
 
         - idiom: 日本語
-          level: Beginer
+          level: Beginner
 
     interests:
       title: Other Interests
@@ -59,7 +59,7 @@ sidebar:
           link: https://www.instagram.com/schuch666
 
 career-profile:
-    title: Atmospheric scientist
+    title: Atmospheric Scientist | Air Quality Modeling | HPC & Geospatial Analysis
     summary: |
       I am a Postdoctoral Research Associate at Northeastern University 
       with a specialization in air quality model development, evaluation, 
