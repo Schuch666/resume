@@ -244,8 +244,7 @@ experiences:
           Study of the impact on air quality of emission scenarios in the formation of
           the secondary pollutants: ozone and particulate matter
           in Brazilian metropolitan regions using numerical models.
-            - Application of WRF-Chem model considering emission scenarios and climate scenarios
-            - Projection of future air quality for Brazil
+            - Conducted regional climate and air quality simulations, focusing on ozone and particulate matter dynamics
       - role: Postdoctoral Research
         time: 2017 - 2018
         company: University of São Paulo, São Paulo-SP, Brazil
@@ -254,8 +253,9 @@ experiences:
           the impact of vehicle fuels on air quality in urban regions in the
           southeast of Brazil and adjacent areas, through
           atmospheric modelling and scenario studies.
-            - Application of WRF-Chem model using street level emissions
-            - Projection of air quality for Metropolitan Area of São Paulo (Brazil) considering different types of fuels
+            - Implemented of multi-method emission preprocessing for WRF-Chem using R, ensuring reusability
+            - Application of high resolution WRF-Chem model using street level emissions from VEIN model
+            - Assessing the impact different types of fuels on air quality of Metropolitan Area of São Paulo (Brazil) 
       - role: Specialist external consultant
         time: 2016 - 2016
         company: ENEVA LTD., Rio de Janeiro-RJ, Brazil
