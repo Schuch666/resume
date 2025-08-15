@@ -374,6 +374,9 @@ skill_bullet:
       - name: Bash / Csh / Zsh
         level: Intermediate
         description: Autmation, model job submission
+      - name: Git
+        level: Intermediate
+        description: version control and colaorative development
 
   data_analysis:
     title: Data Analysis & Processing
@@ -387,12 +390,12 @@ skill_bullet:
       - name: R and Python
         level: Advanced
         description: Data processing, scripting, visualization and analysis
-      - name: Satellite data
+      - name: Satellite
         level: Advanced
-        description: Processing, visualization and use of sattelite datasets CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, TEMPO
+        description: Processing, visualization and use of sattelite datasets (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, TEMPO)
       - name: Specialized datasets
         level: Advanced
-        description: Processing, visualization and use of sattelite datasets METAR, INMET, AQS, AERONET, MERGE, GPCP, PRISM, TMPA
+        description: Processing, visualization and use of sattelite datasets (METAR, INMET, AQS, AERONET, MERGE, GPCP, PRISM, TMPA)
 
   supercomputers:
     title: Supercomputing
