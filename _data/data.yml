@@ -347,10 +347,13 @@ skill_bullet:
     toolset:
       - name: Air Quality Models
         level: Expert
-        description: WRF-Chem (emissions, boundary conditions, physics schemes, model modification), UFS-CMAQ, CAMx
+        description: WRF-Chem (emissions, boundary conditions, physics schemes, model modification), CAMx, online-CMAQ
       - name: Weather Forecast Models
         level: Advanced
         description: WRF (NWP, nested domains, physics schemes), WRFDA (data assimilation), UFS Model
+      - name: Oceanic Models
+        level: Intermediate
+        description: WRF-Chem-ROMS
 
   programming:
     title: Programming & Development
@@ -373,7 +376,7 @@ skill_bullet:
     toolset:
       - name: Emission Processing
         level: Advanced
-        description: CMAQ, WRF-Chem preprocessing
+        description: WRF-Chem, CAMx, online-CMAQ (UFS)
       - name: Observation Comparison
         level: Advanced
         description: Model-observation comparison, statistical analysis
@@ -386,7 +389,7 @@ skill_bullet:
     toolset:
       - name: HPC
         level: Advanced
-        description: Derecho, Anvil, Discovery, Cheyene, Stampede2
+        description: Globus, Derecho, Anvil, Discovery, Cheyene, Stampede2
       - name: Job Schedulers & Workflow
         level: Intermediate
         description: Slurm, PBS, rococo
