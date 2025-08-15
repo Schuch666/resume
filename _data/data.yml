@@ -222,10 +222,13 @@ experiences:
         details: |
           Mentoring of PhD candidates.
           Application, evaluation and development of Air Quality models for multiple projects and regions at CASCADE (Clean Air Smart City and Digital Earth) lab        
-            - Brazil: multiyear application, evaluation and projection of future air quality using the WRF-Chem model
-            - US: Development of GHG emissions (for WRF-GHG and WRF-Chem-GHG), aplication and evaluation of UFS-CMAQ model
-            - Africa: Aplication of WRF-Chem to simulate PM2.5
+            - Brazil: Co-Lead the develpment and optimization of WRF-Chem simulations for meteorology and air quality for two main Braszilian metropolitan areas
+            - US: Development of reusable scientific computing tools to calculate GHG emissions (for WRF-GHG and WRF-Chem-GHG), implementation of the data assimilation in WRF model for CONUS, and aplication and evaluation of the UFS-CMAQ model for FIREX-AQ campaing period
+            - Africa: Aplication and optimizatoin of WRF-Chem to simulate PM2.5
             - Dubai: Application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios
+            - Applied satellite–model comparison techniques (TEMPO, TROPOMI) to evaluate model radiation, cloud and column concentration, identifying key biases on multiple models and regions
+            - Automated spatial and temporal data processing in R, reducing the analysis time
+            - Collaborated with HPC administrators and support to debug and deploy modeling workflows on supercomputing clusters
       - role: Instructor for WRF-Chem model
         time: 2024 - 2024
         company: World Meteorological Organization (WMO)
