@@ -225,9 +225,9 @@ experiences:
             - Brazil: Co-Lead the develpment and optimization of WRF-Chem simulations for meteorology and air quality for two main Braszilian metropolitan areas
             - US: Development of reusable scientific computing tools to calculate GHG emissions (for WRF-GHG and WRF-Chem-GHG), implementation of the data assimilation in WRF model for CONUS, and aplication and evaluation of the UFS-CMAQ model for FIREX-AQ campaing period
             - Africa: Aplication and optimizatoin of WRF-Chem to simulate PM2.5
-            - Dubai: Application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios
-            - Applied satellite–model comparison techniques (TEMPO, TROPOMI) to evaluate model radiation, cloud and column concentration, identifying key biases on multiple models and regions
-            - Automated spatial and temporal data processing in R, reducing the analysis time
+            - Dubai: Lead the application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios
+            - Development of satellite–model comparison tools (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, TEMPO, MAIAC) to evaluate model radiation, cloud and column concentration, identifying key biases on WRF-Chem and CAMx
+            - Automated spatial and temporal model data post-processing in R, reducing the analysis time by 75%.
             - Collaborated with HPC administrators and support to debug and deploy modeling workflows on supercomputing clusters
       - role: Instructor for WRF-Chem model
         time: 2024 - 2024
@@ -387,6 +387,12 @@ skill_bullet:
       - name: R and Python
         level: Advanced
         description: Data processing, scripting, visualization and analysis
+      - name: Satellite data
+        level: Advanced
+        description: Processing, visualization and use of sattelite datasets CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, TEMPO
+      - name: Specialized datasets
+        level: Advanced
+        description: Processing, visualization and use of sattelite datasets METAR, INMET, AQS, AERONET, MERGE, GPCP, PRISM, TMPA
 
   supercomputers:
     title: Supercomputing
