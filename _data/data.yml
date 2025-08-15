@@ -220,9 +220,9 @@ experiences:
         details: |
           Application, evaluation and development of Air Quality models for multiple projects and regions at CASCADE (Clean Air Smart City and Digital Earth) lab        
             - Brazil: multiyear application, evaluation and projection of future air quality using the WRF-Chem model
-            - US: Development of GHG emissions (for WRF-GHG and WRF-Chem-GHG), aplication and evaluation of UFS model
+            - US: Development of GHG emissions (for WRF-GHG and WRF-Chem-GHG), aplication and evaluation of UFS-CMAQ model
+            - Africa: Aplication of WRF-Chem to simulate PM2.5
             - Dubai: Application of CAMx model and use of probing tools for source apportionment, process analysis and simulation of emission scenarios
-            - Dissemination of scientific findings in conference
             - Mentoring PhD students/candidates
       - role: Instructor for WRF-Chem model
         time: 2024 - 2024
