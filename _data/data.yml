@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Daniel Schuch
-    tagline: Postdoctoral Research Associate
+    tagline: Meteorologist, PhD in Science
     avatar: profile6.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -37,7 +37,7 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Portuguese-br
+        - idiom: Portuguese
           level: Native
 
         - idiom: English
@@ -59,7 +59,7 @@ sidebar:
           link: https://www.instagram.com/schuch666
 
 career-profile:
-    title: Meteorologist, PhD in Science
+    title: Atmospheric scientist specializing in air quality modeling and computational tool development
     summary: |
       I am a Postdoctoral Research Associate at Northeastern University 
       with a specialization in air quality model development, evaluation, 
@@ -339,7 +339,7 @@ oss:
 
 skill_bullet:
   modeling:
-    title: Modeling
+    title: Modeling Skills
     toolset:
       - name: Air Quality Models
         level: Expert
@@ -355,7 +355,7 @@ skill_bullet:
         description: WRF-Chem-ROMS
 
   programming:
-    title: Programming & Development
+    title: Programming & Git
     toolset:
       - name: R
         level: Expert
