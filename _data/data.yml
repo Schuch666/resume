@@ -366,7 +366,7 @@ skill_bullet:
         level: Expert
         description: R package development, scripting and analysis
       - name: Python
-        level: Advanced
+        level: Intermediate
         description: scripting and analysis
       - name: Fortran / C# / C++
         level: Intermediate
