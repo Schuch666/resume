@@ -341,7 +341,7 @@ skill_bullet:
     toolset:
       - name: Air Quality Models
         level: Expert
-        description: WRF-Chem (emissions, boundary conditions, physics schemes, model modification), CAMx, online-CMAQ
+        description: WRF-Chem (emissions, boundary conditions, physics schemes, model modification), CAMx, UFS-CMAQ
       - name: Weather Forecast Models
         level: Advanced
         description: WRF (NWP, nested domains, physics schemes), WRFDA (data assimilation), UFS Model
@@ -376,7 +376,7 @@ skill_bullet:
     toolset:
       - name: Emission Processing
         level: Advanced
-        description: WRF-Chem, CAMx, online-CMAQ (UFS)
+        description: WRF-Chem, CAMx, UFS-CMAQ
       - name: Observation Comparison
         level: Advanced
         description: Model-observation comparison and statistical analysis
@@ -385,10 +385,10 @@ skill_bullet:
         description: Data processing, scripting, visualization, and analysis
       - name: Satellite
         level: Advanced
-        description: Processing, visualization and use of sattelite datasets (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, TEMPO)
+        description: Processing, visualization and use of grided datasets (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, MERGE, GPCP, PRISM, TMPA, TEMPO)
       - name: Specialized datasets
         level: Advanced
-        description: Processing, visualization and use of specialized datasets (METAR, INMET, AQS, AERONET, MERGE, GPCP, PRISM, TMPA)
+        description: Processing, visualization and use of non-grided datasets (METAR, INMET, AQS, AERONET, Purple Air)
 
   supercomputers:
     title: Supercomputing
