@@ -64,7 +64,7 @@ career-profile:
       Atmospheric scientist specializing in air quality modeling and 
       computational tool development. I currently work as a Postdoctoral 
       Research Associate at Northeastern University with experience in 
-      air-quality model application, evaluation, and development.      
+      air-quality model application, evaluation, and development. 
       I bring a wealth of experience in computational tool development 
       and a deep interest in topics such as atmospheric boundary layer 
       dynamics, turbulence, transport phenomena, and atmospheric chemistry. 
@@ -352,25 +352,6 @@ skill_bullet:
         level: Intermediate
         description: WRF-Chem-ROMS
 
-  programming:
-    title: Programmer & Git
-    toolset:
-      - name: R
-        level: Expert
-        description: R package development, scripting and analysis
-      - name: Python
-        level: Intermediate
-        description: scripting and analysis
-      - name: Fortran / C# / C++
-        level: Intermediate
-        description: compiling and debugging
-      - name: Bash / Csh / Zsh
-        level: Intermediate
-        description: Automation, model job submission
-      - name: Git
-        level: Intermediate
-        description: version control and collaborative development
-
   data_analysis:
     title: Data Analysis & Processing
     toolset:
@@ -386,6 +367,25 @@ skill_bullet:
       - name: Satellite and Specialized datasets
         level: Advanced
         description: Processing, visualization and use of grided datasets (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, MERGE, GPCP, PRISM, TMPA, TEMPO) and non-grided datasets (METAR, INMET, AQS, AERONET, Purple Air) to improve and validade models
+
+  programming:
+    title: Programmer & Git
+    toolset:
+      - name: R
+        level: Expert
+        description: R package development, scripting and analysis
+      - name: Python
+        level: Intermediate
+        description: scripting and analysis
+      - name: Fortran / C# / C++
+        level: Intermediate
+        description: compiling and debugging
+      - name: Bash / Csh
+        level: Intermediate
+        description: Automation, model job submission
+      - name: Git
+        level: Intermediate
+        description: version control and collaborative development
 
   supercomputers:
     title: Supercomputing
