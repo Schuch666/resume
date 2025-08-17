@@ -185,7 +185,7 @@ education:
     info:
       - degree: DSC in Sciences and Spatial Technology
         university: Technological Institute of Aeronautics (ITA), São Paulo, Brazil
-        tese: Atmospheric model for forecasting and transporting effluent gases from rocket launches applied to the Alcântara Launch Center
+        tesis: Atmospheric model for forecasting and transporting effluent gases from rocket launches applied to the Alcântara Launch Center
         time: 2013 - 2017
         details: |
           Development of an algorithm to simulate the dispersion of gases
@@ -198,7 +198,7 @@ education:
             - Rocket Laucher Effluents
       - degree: MSc in Meteorology, Micrometeorology
         university: University of Pelotas (UFPEL), Pelotas, Brazil
-        tese: Simulation of pollutant dispersion in the atmosphere using the integral transform technique for an arbitrary source
+        tesis: Simulation of pollutant dispersion in the atmosphere using the integral transform technique for an arbitrary source
         time: 2009 - 2011
         details: |
           Simulation of the pollutant dispertion with chemical reaction in the
