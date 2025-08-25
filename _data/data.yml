@@ -421,6 +421,25 @@ skills:
       - name: Python / C# / C++ / Fortran
         level: 55%
 
+Activity:
+     name: Journal of Atmospheric Science Research
+     rule: editor
+
+     name: Atmospheric Pollution Research
+     rule: reviewer
+
+     name: Journal of Renewable and Sustainable Energy
+     rule: reviewer
+
+     name: Journal of Spacecraft and Rockets
+     rule: reviewer
+
+     name: Microchemical Journal
+     rule: reviewer
+
+     name: Journal of Open Source Software
+     rule: reviewer
+
 certifications:
       title: Certifications
       list:
