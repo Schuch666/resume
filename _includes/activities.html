@@ -20,9 +20,9 @@
   <div class="item">
     Invited {{ act.role }} in 
     {% if act.link %}
-      <a href="{{ act.link }}" target="_blank"><em>{{ act.name }}</em></a>
+      <a href="{{ act.link }}" target="_blank"><strong><em>{{ act.name }}</em></strong></a>
     {% else %}
-      <em>{{ act.name }}</em>
+      <strong><em>{{ act.name }}</em></strong>
     {% endif %}
   </div>
   <!--//item-->
@@ -31,4 +31,3 @@
 </section>
 <!--//section-->
 {% endif %}
-
