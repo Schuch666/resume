@@ -423,21 +423,27 @@ skills:
 
 
 activities:
-  title: Academic Activities
+  title: Other academic Activities
   intro: Reviewer and editorial roles in scientific journals.
   list:
     - name: Journal of Atmospheric Science Research
       role: Editor
+      link:
     - name: Atmospheric Pollution Research
       role: Reviewer
+      link:
     - name: Journal of Renewable and Sustainable Energy
       role: Reviewer
+      link:
     - name: Journal of Spacecraft and Rockets
       role: Reviewer
+      link:
     - name: Microchemical Journal
       role: Reviewer
+      link:
     - name: Journal of Open Source Software
       role: Reviewer
+      link:
 
 certifications:
       title: Certifications
