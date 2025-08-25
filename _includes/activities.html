@@ -18,7 +18,7 @@
 
   {% for act in activities.list %}
   <div class="item">
-    Invited {{ act.role }} in 
+    Invited <em>{{ act.role }}</em> in 
     {% if act.link %}
       <a href="{{ act.link }}" target="_blank"><strong><em>{{ act.name }}</em></strong></a>
     {% else %}
