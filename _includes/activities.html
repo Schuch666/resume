@@ -18,8 +18,12 @@
 
   {% for act in activities.list %}
   <div class="item">
-    <span class="project-title">{{ act.name }}</span>
-    - <span class="project-tagline">{{ act.role }}</span>
+    Invited {{ act.role }} in 
+    {% if act.link %}
+      <a href="{{ act.link }}" target="_blank"><em>{{ act.name }}</em></a>
+    {% else %}
+      <em>{{ act.name }}</em>
+    {% endif %}
   </div>
   <!--//item-->
   {% endfor %}
@@ -27,3 +31,4 @@
 </section>
 <!--//section-->
 {% endif %}
+
