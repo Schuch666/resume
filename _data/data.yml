@@ -421,33 +421,23 @@ skills:
       - name: Python / C# / C++ / Fortran
         level: 55%
 
+
 activities:
   title: Academic Activities
   intro: Reviewer and editorial roles in scientific journals.
   list:
-     name: Journal of Atmospheric Science Research
-     rule: editor
-     link:
-
-     name: Atmospheric Pollution Research
-     rule: reviewer
-     link:
-
-     name: Journal of Renewable and Sustainable Energy
-     rule: reviewer
-     link:
-
-     name: Journal of Spacecraft and Rockets
-     rule: reviewer
-     link:
-
-     name: Microchemical Journal
-     rule: reviewer
-     link:
-
-     name: Journal of Open Source Software
-     rule: reviewer
-     link:
+    - name: Journal of Atmospheric Science Research
+      role: Editor
+    - name: Atmospheric Pollution Research
+      role: Reviewer
+    - name: Journal of Renewable and Sustainable Energy
+      role: Reviewer
+    - name: Journal of Spacecraft and Rockets
+      role: Reviewer
+    - name: Microchemical Journal
+      role: Reviewer
+    - name: Journal of Open Source Software
+      role: Reviewer
 
 certifications:
       title: Certifications
