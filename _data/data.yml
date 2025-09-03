@@ -281,7 +281,7 @@ projects:
     intro: 
     assignments:
       - title: EPA project
-        link: 'https://www.epa.gov/
+        link: "https://www.epa.gov/"
         tagline: "Multimodel application and comparison for U.S."
         
       - title: iSuper
