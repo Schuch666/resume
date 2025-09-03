@@ -280,9 +280,13 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: NYCI Project
+        link: "https://www.rff.org/"
+        tagline: "Projecting New York’s Air Quality to 2030 under Emission Controls." 
+        
       - title: EPA project
         link: "https://www.epa.gov/"
-        tagline: "Multimodel application and comparison for U.S."
+        tagline: "Multimodel Applications and Comparisons for Air Quality in the U.S.."
         
       - title: iSuper
         link: "https://impactengines.northeastern.edu/ie/isuper/"
