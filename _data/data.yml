@@ -280,6 +280,10 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: NOAA AC4: Integrating Atmospheric Chemistry and Carbon Cycle Research
+        link: "https://cpo.noaa.gov/divisions-programs/earth-system-science-and-modeling-division/atmospheric-chemistry-carbon-cycle-and-climate/"
+        tagline: "Investigating atmospheric emissions and their impact on trace gases, aerosols, and Earth system processes"
+        
       - title: NYCI Project
         link: "https://www.rff.org/"
         tagline: "Projecting New York’s Air Quality to 2030 under Emission Controls." 
