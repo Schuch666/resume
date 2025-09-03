@@ -280,6 +280,10 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: EPA project
+        link: 'https://www.epa.gov/
+        tagline: "Multimodel application and comparison for U.S."
+        
       - title: iSuper
         link: "https://impactengines.northeastern.edu/ie/isuper/"
         tagline: "Intelligent Solutions to Urban Pollution for Equity and Resilience (iSUPER) pairs low-cost, adaptable sensing technologies with novel pollution prediction models to accurately identify hyperlocal pollution hot spots in real-time."
