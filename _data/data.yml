@@ -78,17 +78,17 @@ publications:
     title: Publication
     intro: |
     papers:
-      - title: "24. Application of WRF-CAMx over West Asia: Model Evaluation and Process Analysis"
+      - title: "24. Application of WRF-CAMx over West Asia: Model Evaluation and Process Analysis (In preparation)"
         link: ""
         authors: "Daniel Schuch, Y. Zhang, and K.Farzad"
         Conference: "(In preparation)"
         
-      - title: "23. Multi-Year Evaluation and Application of the WRF-Chem Model for Two Major Urban Areas in Brazil Part II: Multi-Year Evaluation and Urban-centric Analysis"
+      - title: "23. Multi-Year Evaluation and Application of the WRF-Chem Model for Two Major Urban Areas in Brazil Part II: Multi-Year Evaluation and Urban-centric Analysis (Submited to Atmospheric Environment)"
         link: "www.sciencedirect.com/journal/atmospheric-environment"
         authors: "Daniel Schuch, Y. Zhang, S. Ibarra-Espinosa,c, M. F. Andradede, M. Gavidia-Calderónd, and M. L. Belle"
         Conference: "(Submited to Atmospheric Environment)" 
         
-      - title: "22. Multi-Year Application and Evaluation of the WRF-Chem Model for Two Major Urban Areas in Brazil - Part I: Initial Application and Model Improvement"
+      - title: "22. Multi-Year Application and Evaluation of the WRF-Chem Model for Two Major Urban Areas in Brazil - Part I: Initial Application and Model Improvement (Submited to Atmospheric Environment)"
         link: "www.sciencedirect.com/journal/atmospheric-environment"
         authors: "Daniel Schuch, Y. Zhang, S. Ibarra-Espinosa,c, M. F. Andradede, M. Gavidia-Calderónd, and M. L. Belle"
         Conference: "(Submited to Atmospheric Environment)"
