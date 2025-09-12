@@ -398,14 +398,14 @@ skill_bullet:
         description: Data processing, scripting, visualization, and analysis
       - name: Satellite and Specialized datasets
         level: Advanced
-        description: Processing, visualization and use of grided datasets (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, MERGE, GPCP, PRISM, TMPA, TEMPO) and non-grided datasets (METAR, INMET, AQS, AERONET, Purple Air) to improve and validade models
+        description: Processing, visualization and use of grided datasets (CERES, MODIS, MAIAC, SCIAMCHY, MOPITT, OMI, AIRS, MERGE, GPCP, PRISM, TMPA, TEMPO) and non-grided datasets (METAR, INMET, AQS, AERONET, Purple Air) to improve and validate models
 
   programming:
     title: Programmer & Git
     toolset:
       - name: R
         level: Expert
-        description: R package development, scripting and analysis
+        description: R-package development, scripting and analysis
       - name: Python
         level: Intermediate
         description: scripting and analysis
