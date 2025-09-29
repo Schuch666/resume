@@ -84,14 +84,14 @@ publications:
         Conference: "(In preparation)"
         
       - title: "23. Multi-Year Evaluation and Application of the WRF-Chem Model for Two Major Urban Areas in Brazil - Part II: Multi-Year Evaluation and Urban-centric Analysis (Submited to Atmospheric Environment)"
-        link: "www.sciencedirect.com/journal/atmospheric-environment"
+        link: "https://authors.elsevier.com/tracking/article/details.do?aid=121577&jid=AEA&surname=Schuch"
         authors: "Daniel Schuch, Y. Zhang, S. Ibarra-Espinosa,c, M. F. Andradede, M. Gavidia-Calderónd, and M. L. Belle"
-        Conference: "(Submitted to Atmospheric Environment)" 
+        Conference: "(Accepted to Atmospheric Environment, 2025)" 
         
       - title: "22. Multi-Year Application and Evaluation of the WRF-Chem Model for Two Major Urban Areas in Brazil - Part I: Initial Application and Model Improvement (Submited to Atmospheric Environment)"
-        link: "www.sciencedirect.com/journal/atmospheric-environment"
+        link: "https://authors.elsevier.com/tracking/article/details.do?aid=121577&jid=AEA&surname=Schuch"
         authors: "Daniel Schuch, Y. Zhang, S. Ibarra-Espinosa,c, M. F. Andradede, M. Gavidia-Calderónd, and M. L. Belle"
-        Conference: "(Submitted to Atmospheric Environment)"
+        Conference: "(Accepted to Atmospheric Environment, 2025)"
         
       - title: "21. eva3dm: A R-package for model evaluation of 3D weather and air quality models"
         link: "https://joss.theoj.org/papers/10.21105/joss.07797"
