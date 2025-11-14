@@ -94,12 +94,12 @@ publications:
         
       - title: "23. Multi-Year Evaluation and Application of the WRF-Chem Model for Two Major Urban Areas in Brazil - Part II: Multi-Year Evaluation and Urban-centric Analysis"
         link: "https://doi.org/10.1016/j.atmosenv.2025.121632"
-        authors: "Daniel Schuch, Y. Zhang, S. Ibarra-Espinosa,c, M. F. Andradede, M. Gavidia-Calderónd, and M. L. Belle"
+        authors: "Daniel Schuch, Y. Zhang, S. Ibarra-Espinosa, M. F. Andradede, M. Gavidia-Calderónd, and M. L. Belle"
         conference: Atmospheric Environment, 2026 
         
       - title: "22. Multi-Year Evaluation and Application of the WRF-Chem Model for Two Major Urban Areas in Brazil - Part I: Initial Application and Model Improvement"
         link: "https://doi.org/10.1016/j.atmosenv.2025.121577"
-        authors: "Daniel Schuch, Y. Zhang, S. Ibarra-Espinosa,c, M. F. Andradede, M. Gavidia-Calderónd, and M. L. Belle"
+        authors: "Daniel Schuch, Y. Zhang, S. Ibarra-Espinosa, M. F. Andradede, M. Gavidia-Calderónd, and M. L. Belle"
         conference: Atmospheric Environment, 2026
         
       - title: "21. eva3dm: A R-package for model evaluation of 3D weather and air quality models"
