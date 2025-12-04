@@ -358,7 +358,7 @@ oss:
     contributions:
       - title: EmissV
         link: "https://CRAN.R-project.org/package=EmissV"
-        tagline: "Tools to create and process emissions for numeric air quality models"
+        tagline: "Tools to calculate and process emissions for numeric air quality models"
 
       - title: eva3dm
         link: "https://CRAN.R-project.org/package=eva3dm"
