@@ -28,7 +28,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://github.com/Schuch666/resume/raw/master/pdf/Daniel_Schuch_2025.pdf
-    neu: y # shorturl.at/EFfvK # coe.northeastern.edu/Research/CASCADE/Daniel_schuch.html #do not add http://
+    neu: n # shorturl.at/EFfvK # coe.northeastern.edu/Research/CASCADE/Daniel_schuch.html #do not add http://
     orcid: 0000-0001-5977-4519
     scholar: y
     gate: y
