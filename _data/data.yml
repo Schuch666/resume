@@ -64,7 +64,7 @@ sidebar:
           link: https://www.instagram.com/schuch666
 
 career-profile:
-    title: About Me
+    title: Professional Profile
     summary: |
       Atmospheric scientist originally from Brazil, specializing in
       weather and air quality modeling, satellite data analysis, and 
@@ -73,15 +73,16 @@ career-profile:
       integrating simulations with observations, including satellite remote sensing, 
       to study atmospheric composition and climate.
 
-      Proven track record in leading scientific projects and contributing to 
-      open-source software, with recognized research excellence. Research interests 
-      include atmospheric dynamics, boundary layer processes, turbulence, transport 
-      phenomena, aerosols, and atmospheric chemistry.
+      Proven ability to lead research projects and develop reproducible, 
+      high-performance computational workflows. Active contributor to open-source 
+      initiatives, with experience translating complex scientific problems into 
+      robust solutions.
 
-      Committed to advancing the understanding of atmospheric processes through 
-      innovative and interdisciplinary approaches aimed at addressing real-world 
-      environmental challenges. 
-      
+      Research interests include atmospheric dynamics, boundary layer processes, 
+      turbulence, transport phenomena, aerosols, and atmospheric chemistry. 
+      Motivated to apply advanced modeling and data analysis techniques to address 
+      real-world environmental and climate challenges.
+       
 publications:
     title: Publication
     intro: |
