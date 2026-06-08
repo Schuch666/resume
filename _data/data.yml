@@ -67,7 +67,7 @@ career-profile:
     title: Professional Profile
     summary: |
       Atmospheric scientist originally from Brazil, specialized in
-      weather and air quality modeling, satellite data analysis, and 
+      weather and air quality modeling, data analysis, and 
       computational tool development. Extensive experience in the application, 
       evaluation, and development of numerical models, with a strong focus on 
       integrating simulations with observations, including satellite remote sensing, 
@@ -88,14 +88,14 @@ publications:
     intro: |
     papers:
       - title: "25. Application of WRF-CAMx over West Asia, Part II: Ozone Formation Regimes and Process Analysis"
-        link: ""
+        link: "https://doi.org/10.3390/cli14060116"
         authors: "Daniel Schuch, and Y. Zhang"
-        conference: "(Submited to Atmospheric Pollution Research)"
+        conference: Climate, 2025
         
       - title: "24. Application of WRF-CAMx over West Asia, Part I: Meteorological and Air Quality Model Evaluation"
         link: ""
         authors: "Daniel Schuch, Y. Zhang, and K.Farzad"
-        conference: "(Submited to Atmospheric Pollution Research)"
+        conference: "(Submited to Climate)"
         
       - title: "23. Multi-Year Evaluation and Application of the WRF-Chem Model for Two Major Urban Areas in Brazil - Part II: Multi-Year Evaluation and Urban-centric Analysis"
         link: "https://doi.org/10.1016/j.atmosenv.2025.121632"
