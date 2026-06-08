@@ -66,22 +66,11 @@ sidebar:
 career-profile:
     title: Professional Profile
     summary: |
-      Atmospheric scientist originally from Brazil, specialized in
-      weather and air quality modeling, data analysis, and 
-      computational tool development. Extensive experience in the application, 
-      evaluation, and development of numerical models, with a strong focus on 
-      integrating simulations with observations, including satellite remote sensing, 
-      to study atmospheric composition and climate.
-
-      Proven ability to lead research projects and develop reproducible, 
-      high-performance computational workflows. Active contributor to open-source 
-      initiatives, with experience translating complex scientific problems into robust, 
-      solutions for environmental applications.
-
-      Research interests include atmospheric dynamics, boundary layer processes, 
-      turbulence, transport phenomena, aerosols, and atmospheric chemistry. 
-      Motivated to apply advanced modeling and data analysis techniques to address 
-      real-world environmental and climate challenges.
+      Atmospheric scientist specializing in weather and air quality modeling, numerical model development, 
+      and environmental data analysis. Experienced in integrating simulations with observations, 
+      including satellite remote sensing, to study atmospheric composition and climate processes. 
+      Interested in atmospheric dynamics, turbulence, aerosols, atmospheric chemistry, and 
+      high-performance scientific computing.
        
 publications:
     title: Publication
