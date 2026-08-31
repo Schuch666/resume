@@ -76,6 +76,11 @@ publications:
     title: Publication
     intro: |
     papers:
+      - title: "Multiscale Air Quality Modeling Using WRF-Chem: Model Evaluation, Sensitivity, and Chemical Feedback to Meteorology"
+        link: ""
+        authors: "Libo Zhang, Yang Zhang, Kai Wang, Xiaoyang Chen, Daniel Schuch, Ying Wang, Kirsten Koehler, Misti Levy Zamora, Drew R. Gentner, Colby Buehler, and Michelle L. Bell"
+        conference: (Submited to Atmospheric Environment)
+      
       - title: "25. Application of WRF-CAMx over West Asia, Part II: Ozone Formation Regimes and Process Analysis"
         link: "https://doi.org/10.3390/cli14060116"
         authors: "Daniel Schuch, and Y. Zhang"
