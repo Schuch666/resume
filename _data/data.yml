@@ -245,6 +245,18 @@ education:
 experiences:
     title: Experience
     info:
+        - role: Data Scientist
+          time: 2026 - Present
+          company: Tempo OK
+          details: |
+            Member of the development team behind the company's meteorological operations base,
+            working on the ingestion, processing and quality control of weather-station observations
+            with Python, SQL and Google Cloud.
+              - Developed and deployed automated quality-control checks for hourly observations from tens of thousands of stations and dozens of data providers (PostgreSQL/Cloud SQL, Cloud Run, Cloud Build, Cloud Scheduler)
+              - Implemented physically based tests: humidity–temperature–dew-point consistency (Magnus), solar-geometry irradiance limits, WMO calm-wind rule, spatial consistency and 24-hour variation
+              - Calibrated QC thresholds with large station samples, separating sensor errors from numerical rounding, and validated each release in production against reference calculations
+              - Reduced false rejections in wind data, recovering about 23,500 hourly observations per day
+              - Diagnosed and documented more than 50 data issues (time zones, units, aggregation, METAR decoding) with root causes in code and correction plans
       - role: Postdoctoral Research Associate
         time: 2020 - 2026
         company: Northeastern University, Boston-MA, U.S.
